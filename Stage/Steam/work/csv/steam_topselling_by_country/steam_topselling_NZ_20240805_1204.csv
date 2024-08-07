@@ -1,4 +1,4 @@
-Top_Selling,App_Id,Name,Cost,Country,Datetime
+Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,NZ,2024-08-05 12:04
 2,238960,Path of Exile(not available in your region),Free To Play,NZ,2024-08-05 12:04
 3,2074920,The First Descendant,Free To Play,NZ,2024-08-05 12:04

@@ -1,4 +1,4 @@
-Top_Selling,App_Id,Name,Cost,Country,Datetime
+Rank,GameID,GameName,Cost,Country,Datetime
 1,1675200,Steam Deck,"NT$ 1,199.00",IT,2024-08-05 12:04
 2,2074920,The First Descendant,Free To Play,IT,2024-08-05 12:04
 3,730,Counter-Strike 2,Free To Play,IT,2024-08-05 12:04
