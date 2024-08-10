@@ -1,4 +1,4 @@
-Top_Selling,App_Id,Name,Cost,Country,Datetime
+Rank,GameID,GameName,Cost,Country,Datetime
 1,2074920,The First Descendant,Free To Play,TW,2024-08-05 12:04
 2,2139460,Once Human,Free To Play,TW,2024-08-05 12:04
 3,578080,PUBG: BATTLEGROUNDS,Free To Play,TW,2024-08-05 12:04

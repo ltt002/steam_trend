@@ -1,4 +1,4 @@
-Top_Selling,App_Id,Name,Cost,Country,Datetime
+Rank,GameID,GameName,Cost,Country,Datetime
 1,2344520,Diablo® IV,"NT$ 1,575.00",BR,2024-08-05 12:04
 2,730,Counter-Strike 2,Free To Play,BR,2024-08-05 12:04
 3,2519060,Call of Duty®: Modern Warfare® III,"NT$ 1,220.00",BR,2024-08-05 12:04
