@@ -1,4 +1,4 @@
-Top_Selling,App_Id,Name,Cost,Country,Datetime
+Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,TR,2024-08-05 12:04
 2,578080,PUBG: BATTLEGROUNDS,Free To Play,TR,2024-08-05 12:04
 3,570,Dota 2,Free To Play,TR,2024-08-05 12:04
