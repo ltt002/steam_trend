@@ -1,4 +1,4 @@
-Top_Selling,App_Id,Name,Cost,Country,Datetime
+Rank,GameID,GameName,Cost,Country,Datetime
 1,2074920,The First Descendant,Free To Play,FR,2024-08-05 12:04
 2,1675200,Steam Deck,Free To Play,FR,2024-08-05 12:04
 3,1086940,Baldur's Gate 3,"NT$ 1,599.00",FR,2024-08-05 12:04

@@ -1,0 +1,436 @@
+﻿TagID,Tag
+T001,Singleplayer
+T002,Action
+T003,Adventure
+T004,Multiplayer
+T005,Simulation
+T006,RPG
+T007,Strategy
+T008,Indie
+T009,Story Rich
+T010,Co-op
+T011,Casual
+T012,Atmospheric
+T013,2D
+T014,Open World
+T015,Fantasy
+T016,Exploration
+T017,3D
+T018,Anime
+T019,Sandbox
+T020,Online Co-Op
+T021,First-Person
+T022,Cute
+T023,Survival
+T024,PvP
+T025,Building
+T026,Great Soundtrack
+T027,Realistic
+T028,Third Person
+T029,Character Customization
+T030,Funny
+T031,Action RPG
+T032,Female Protagonist
+T033,Management
+T034,Pixel Graphics
+T035,Sci-fi
+T036,Colorful
+T037,Shooter
+T038,Crafting
+T039,Base Building
+T040,Action-Adventure
+T041,JRPG
+T042,Horror
+T043,Sexual Content
+T044,FPS
+T045,Relaxing
+T046,Tactical
+T047,PvE
+T048,Difficult
+T049,Historical
+T050,Hack and Slash
+T051,Controller
+T052,Early Access
+T053,Roguelite
+T054,Turn-Based Strategy
+T055,Free to Play
+T056,Family Friendly
+T057,Puzzle
+T058,Choices Matter
+T059,Roguelike
+T060,Combat
+T061,Immersive Sim
+T062,Violent
+T063,Gore
+T064,Turn-Based Combat
+T065,RTS
+T066,Visual Novel
+T067,War
+T068,Resource Management
+T069,Multiple Endings
+T070,Drama
+T071,Massively Multiplayer
+T072,Moddable
+T073,Dating Sim
+T074,City Builder
+T075,Nudity
+T076,Comedy
+T077,Replay Value
+T078,Turn-Based Tactics
+T079,Sports
+T080,Military
+T081,Turn-Based
+T082,Local Multiplayer
+T083,Arcade
+T084,Dark Fantasy
+T085,Local Co-Op
+T086,Post-apocalyptic
+T087,Economy
+T088,Dark
+T089,Racing
+T090,Top-Down
+T091,Psychological Horror
+T092,Magic
+T093,Mystery
+T094,Cartoony
+T095,Procedural Generation
+T096,Strategy RPG
+T097,Physics
+T098,Emotional
+T099,Survival Horror
+T100,Grand Strategy
+T101,Life Sim
+T102,Medieval
+T103,Lore-Rich
+T104,Mature
+T105,Space
+T106,Action Roguelike
+T107,Retro
+T108,Isometric
+T109,Platformer
+T110,Romance
+T111,Card Game
+T112,Dungeon Crawler
+T113,2D Platformer
+T114,Third-Person Shooter
+T115,Real Time Tactics
+T116,Zombies
+T117,Stylized
+T118,Tower Defense
+T119,Driving
+T120,Hand-drawn
+T121,Party-Based RPG
+T122,Choose Your Own Adventure
+T123,Wargame
+T124,MMORPG
+T125,Loot
+T126,Team-Based
+T127,Souls-like
+T128,Colony Sim
+T129,Deckbuilding
+T130,Martial Arts
+T131,Cinematic
+T132,Tactical RPG
+T133,Hentai
+T134,Point & Click
+T135,Open World Survival Craft
+T136,Cartoon
+T137,Side Scroller
+T138,Classic
+T139,Stealth
+T140,Automobile Sim
+T141,Competitive
+T142,Card Battler
+T143,Bullet Hell
+T144,VR
+T145,3D Platformer
+T146,em up
+T147,Farming Sim
+T148,Fighting
+T149,2.5D
+T150,Futuristic
+T151,Alternate History
+T152,Detective
+T153,Interactive Fiction
+T154,Board Game
+T155,Memes
+T156,NSFW
+T157,eSports
+T158,Metroidvania
+T159,Tabletop
+T160,4X
+T161,World War II
+T162,Mythology
+T163,Education
+T164,s
+T165,Aliens
+T166,CRPG
+T167,Time Management
+T168,Investigation
+T169,Crime
+T170,Dark Humor
+T171,Cyberpunk
+T172,LGBTQ+
+T173,Automation
+T174,Collectathon
+T175,2D Fighter
+T176,Modern
+T177,Robots
+T178,Puzzle Platformer
+T179,Text-Based
+T180,Trading
+T181,Nature
+T182,Demons
+T183,Destruction
+T184,Linear
+T185,Inventory Management
+T186,Surreal
+T187,Spectacle fighter
+T188,Fishing
+T189,Old School
+T190,4 Player Local
+T191,Perma Death
+T192,Mechs
+T193,Diplomacy
+T194,Minimalist
+T195,Thriller
+T196,Looter Shooter
+T197,Remake
+T198,Real-Time with Pause
+T199,Agriculture
+T200,em up
+T201,Auto Battler
+T202,Beautiful
+T203,Walking Simulator
+T204,Top-Down Shooter
+T205,Hidden Object
+T206,Roguelike Deckbuilder
+T207,Class-Based
+T208,Transportation
+T209,Flight
+T210,Score Attack
+T211,Dragons
+T212,Level Editor
+T213,Dystopian
+T214,Supernatural
+T215,Co-op Campaign
+T216,Comic Book
+T217,Cooking
+T218,Cozy
+T219,1980s
+T220,Conversation
+T221,Parkour
+T222,Split Screen
+T223,Swordplay
+T224,Soundtrack
+T225,Cats
+T226,Narration
+T227,Action RTS
+T228,Clicker
+T229,3D Fighter
+T230,Logic
+T231,FMV
+T232,Idler
+T233,Creature Collector
+T234,Science
+T235,Capitalism
+T236,Tutorial
+T237,Hunting
+T238,Lovecraftian
+T239,America
+T240,Ninja
+T241,Steampunk
+T242,Mining
+T243,Space Sim
+T244,Trading Card Game
+T245,Gun Customization
+T246,Fast-Paced
+T247,RPGMaker
+T248,Arena Shooter
+T249,Word Game
+T250,Musou
+T251,Addictive
+T252,Voxel
+T253,Psychological
+T254,God Game
+T255,Gothic
+T256,Political
+T257,Battle Royale
+T258,Epic
+T259,Dwarf
+T260,Artificial Intelligence
+T261,Trains
+T262,Party Game
+T263,Wholesome
+T264,Games Workshop
+T265,Dinosaurs
+T266,Nonlinear
+T267,Hero Shooter
+T268,Blood
+T269,Heist
+T270,Tanks
+T271,Hex Grid
+T272,Underwater
+T273,Vehicular Combat
+T274,Superhero
+T275,Naval
+T276,Music
+T277,Twin Stick Shooter
+T278,Nostalgia
+T279,Vampire
+T280,Time Travel
+T281,Politics
+T282,Hacking
+T283,Naval Combat
+T284,Warhammer 40K
+T285,Horses
+T286,Real-Time
+T287,Party
+T288,Short
+T289,Escape Room
+T290,Character Action Game
+T291,Quick-Time Events
+T292,Combat Racing
+T293,Design & Illustration
+T294,Precision Platformer
+T295,Narrative
+T296,MOBA
+T297,Noir
+T298,Dark Comedy
+T299,Minigames
+T300,Rhythm
+T301,Motorbike
+T302,3D Vision
+T303,Basketball
+T304,Mod
+T305,Pirates
+T306,Solitaire
+T307,Psychedelic
+T308,Immersive
+T309,Assassin
+T310,Cult Classic
+T311,Political Sim
+T312,Gambling
+T313,Foreign
+T314,Mouse only
+T315,Dynamic Narration
+T316,Farming
+T317,TrackIR
+T318,Faith
+T319,Asynchronous Multiplayer
+T320,Touch-Friendly
+T321,Villain Protagonist
+T322,Philosophical
+T323,Western
+T324,Sailing
+T325,Baseball
+T326,Cold War
+T327,Vikings
+T328,Football (Soccer)
+T329,Dog
+T330,6DOF
+T331,Illuminati
+T332,Traditional Roguelike
+T333,Medical Sim
+T334,Experimental
+T335,Mystery Dungeon
+T336,Roguevania
+T337,Silent Protagonist
+T338,Golf
+T339,Otome
+T340,Unforgiving
+T341,Satire
+T342,Abstract
+T343,Submarine
+T344,Sequel
+T345,Bullet Time
+T346,Conspiracy
+T347,Job Simulator
+T348,World War I
+T349,Time Manipulation
+T350,Boomer Shooter
+T351,Extraction Shooter
+T352,Bikes
+T353,Parody
+T354,Mahjong
+T355,Programming
+T356,LEGO
+T357,Snow
+T358,Sniper
+T359,Runner
+T360,Dungeons & Dragons
+T361,Utilities
+T362,Kickstarter
+T363,Mini Golf
+T364,Underground
+T365,Wrestling
+T366,Mars
+T367,Match 3
+T368,Crowdfunded
+T369,Game Development
+T370,Transhumanism
+T371,Grid-Based Movement
+T372,Boxing
+T373,Jet
+T374,Episodic
+T375,Software
+T376,Tennis
+T377,Time Attack
+T378,Well-Written
+T379,Pool
+T380,Rome
+T381,Based On A Novel
+T382,Animation & Modeling
+T383,ATV
+T384,Outbreak Sim
+T385,Cycling
+T386,360 Video
+T387,Jump Scare
+T388,Spelling
+T389,Archery
+T390,Offroad
+T391,Social Deduction
+T392,Music-Based Procedural Generation
+T393,Experience
+T394,Trivia
+T395,Spaceships
+T396,Typing
+T397,Elf
+T398,Gaming
+T399,Web Publishing
+T400,Chess
+T401,GameMaker
+T402,Bowling
+T403,Tile-Matching
+T404,Asymmetric VR
+T405,Ambient
+T406,Volleyball
+T407,Instrumental Music
+T408,Werewolves
+T409,Skateboarding
+T410,Motocross
+T411,Hobby Sim
+T412,Sokoban
+T413,Photo Editing
+T414,Snowboarding
+T415,Reboot
+T416,Intentionally Awkward Controls
+T417,Skiing
+T418,BMX
+T419,Pinball
+T420,Movie
+T421,Boss Rush
+T422,Video Production
+T423,Hardware
+T424,Coding
+T425,Fox
+T426,On-Rails Shooter
+T427,Software Training
+T428,Birds
+T429,Skating
+T430,Benchmark
+T431,Shop Keeper
+T432,Electronic
+T433,Electronic Music
+T434,Audio Production
+T435,Rock Music

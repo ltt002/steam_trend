@@ -1,4 +1,4 @@
-Deck_TopPlayed,App_Id,Name,Cost,Duration,Datetime
+DeckTopPlayed,GameID,GameName,Cost,Duration,Datetime
 1,1245620,ELDEN RING,"NT$ 1,790.00",pastweek,2024-08-05 12:09
 2,413150,Stardew Valley,NT$ 398.00,pastweek,2024-08-05 12:09
 3,1086940,Baldur's Gate 3,"NT$ 1,599.00",pastweek,2024-08-05 12:09
