@@ -1,4 +1,4 @@
-Rank,App_Id,Name,Current_Players,Peak_Players,Datetime
+Rank,GameID,GameName,CurrentPlayers,PeakPlayers,Datetime
 1,730,Counter-Strike 2,"659,122","1,323,086",2024-08-05 12:01
 2,2923300,Banana,"389,453","683,653",2024-08-05 12:01
 3,570,Dota 2,"299,084","736,265",2024-08-05 12:01
