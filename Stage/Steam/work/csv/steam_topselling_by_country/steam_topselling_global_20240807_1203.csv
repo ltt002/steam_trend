@@ -1,6 +1,5 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,global,2024-08-07 12:03
-2,1675200,Steam Deck,Free To Play,global,2024-08-07 12:03
 3,2358720,Black Myth: Wukong,"NT$ 1,280.00",global,2024-08-07 12:03
 4,1172470,Apex Legends™,Free To Play,global,2024-08-07 12:03
 5,578080,PUBG: BATTLEGROUNDS,Free To Play,global,2024-08-07 12:03
@@ -23,7 +22,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 22,236390,War Thunder,Free To Play,global,2024-08-07 12:03
 23,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",global,2024-08-07 12:03
 24,2519060,Call of Duty®: Modern Warfare® III,"NT$ 1,220.00",global,2024-08-07 12:03
-25,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,global,2024-08-07 12:03
 26,546560,Half-Life: Alyx,NT$ 305.00,global,2024-08-07 12:03
 27,2567870,Chained Together,NT$ 102.00,global,2024-08-07 12:03
 28,440,Team Fortress 2,Free To Play,global,2024-08-07 12:03
@@ -35,7 +33,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 34,2395210,Tony Hawk's™ Pro Skater™ 1 + 2,NT$ 499.00,global,2024-08-07 12:03
 35,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",global,2024-08-07 12:03
 36,1517290,Battlefield™ 2042,NT$ 239.00,global,2024-08-07 12:03
-37,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",global,2024-08-07 12:03
 38,202970,Call of Duty®: Black Ops II,NT$ 623.00,global,2024-08-07 12:03
 39,1997040,MARVEL SNAP,Free To Play,global,2024-08-07 12:03
 40,1238810,Battlefield™ V,NT$ 209.00,global,2024-08-07 12:03
@@ -43,7 +40,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 42,992300,嗜血印 Bloody Spell,NT$ 63.00,global,2024-08-07 12:03
 43,1938090,Call of Duty®,NT$ 63.00,global,2024-08-07 12:03
 44,1091500,Cyberpunk 2077,"NT$ 1,599.00",global,2024-08-07 12:03
-45,1962663,Call of Duty®: Warzone™,Free To Play,global,2024-08-07 12:03
 46,413150,Stardew Valley,NT$ 398.00,global,2024-08-07 12:03
 47,431960,Wallpaper Engine,NT$ 120.00,global,2024-08-07 12:03
 48,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",global,2024-08-07 12:03
@@ -71,7 +67,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 70,2000950,Call of Duty®: Modern Warfare®,NT$ 605.00,global,2024-08-07 12:03
 71,582660,Black Desert,NT$ 200.00,global,2024-08-07 12:03
 72,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",global,2024-08-07 12:03
-73,13560,【豪华版】嗜血印本体+全部服装DLC,NT$ 457.00,global,2024-08-07 12:03
 74,282070,This War of Mine,NT$ 65.00,global,2024-08-07 12:03
 75,1326470,Sons Of The Forest,NT$ 488.00,global,2024-08-07 12:03
 76,1966720,Lethal Company,NT$ 188.00,global,2024-08-07 12:03
@@ -81,7 +76,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 80,2488620,F1® 24,"NT$ 1,439.00",global,2024-08-07 12:03
 81,1623730,Palworld,NT$ 488.00,global,2024-08-07 12:03
 82,227300,Euro Truck Simulator 2,NT$ 428.00,global,2024-08-07 12:03
-83,33608,HELLDIVERS™ 2 Super Citizen Edition,"NT$ 1,432.00",global,2024-08-07 12:03
 84,1332010,Stray,NT$ 323.00,global,2024-08-07 12:03
 85,2790720,Call of Duty®: Modern Warfare® III - BlackCell (Season 5),"NT$ 1,008.00",global,2024-08-07 12:03
 86,1174180,Red Dead Redemption 2,"NT$ 1,790.00",global,2024-08-07 12:03
@@ -98,4 +92,3 @@ Rank,GameID,GameName,Cost,Country,Datetime
 97,2426960,Summoners War,Free To Play,global,2024-08-07 12:03
 98,284160,BeamNG.drive,NT$ 408.00,global,2024-08-07 12:03
 99,1363080,Manor Lords,NT$ 999.00,global,2024-08-07 12:03
-100,2336880,Destiny 2: The Final Shape,NT$ 884.00,global,2024-08-07 12:03

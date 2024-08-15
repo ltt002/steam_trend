@@ -6,7 +6,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 5,578080,PUBG: BATTLEGROUNDS,Free To Play,FI,2024-08-09 12:05
 6,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",FI,2024-08-09 12:05
 7,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,FI,2024-08-09 12:05
-8,1675200,Steam Deck,NT$ 328.00,FI,2024-08-09 12:05
 9,570,Dota 2,Free To Play,FI,2024-08-09 12:05
 10,39210,FINAL FANTASY XIV Online(not available in your region),Free To Play,FI,2024-08-09 12:05
 11,236390,War Thunder,Free To Play,FI,2024-08-09 12:05
@@ -21,14 +20,10 @@ Rank,GameID,GameName,Cost,Country,Datetime
 20,381210,Dead by Daylight,NT$ 379.00,FI,2024-08-09 12:05
 21,2396240,SteamWorld Heist II,NT$ 439.00,FI,2024-08-09 12:05
 22,1172470,Apex Legends™,Free To Play,FI,2024-08-09 12:05
-23,31806,Walkabout Mini Golf: Whole in One Bundle,"NT$ 1,360.00",FI,2024-08-09 12:05
 24,2396980,Fate/stay night REMASTERED,NT$ 439.00,FI,2024-08-09 12:05
 25,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",FI,2024-08-09 12:05
-26,21478,FINAL FANTASY I-VI Bundle,"NT$ 1,680.00",FI,2024-08-09 12:05
 27,1599340,Lost Ark(not available in your region),"NT$ 1,680.00",FI,2024-08-09 12:05
-28,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",FI,2024-08-09 12:05
 29,252490,Rust,NT$ 694.00,FI,2024-08-09 12:05
-30,30502,X4: Community of Planets Edition (2024),"NT$ 1,667.00",FI,2024-08-09 12:05
 31,546560,Half-Life: Alyx,NT$ 305.00,FI,2024-08-09 12:05
 32,2358720,Black Myth: Wukong,"NT$ 1,280.00",FI,2024-08-09 12:05
 33,1151340,Fallout 76,NT$ 299.00,FI,2024-08-09 12:05
@@ -36,7 +31,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 35,2400510,Dungeons & Degenerate Gamblers,NT$ 241.00,FI,2024-08-09 12:05
 36,2139460,Once Human,Free To Play,FI,2024-08-09 12:05
 37,582660,Black Desert,NT$ 200.00,FI,2024-08-09 12:05
-38,41769,Way of the Hunter Ultimate Edition,NT$ 761.00,FI,2024-08-09 12:05
 39,782330,DOOM Eternal,NT$ 299.00,FI,2024-08-09 12:05
 40,1849250,EA SPORTS™ WRC,NT$ 419.00,FI,2024-08-09 12:05
 41,397540,Borderlands 3,NT$ 178.00,FI,2024-08-09 12:05
@@ -44,45 +38,33 @@ Rank,GameID,GameName,Cost,Country,Datetime
 43,1085660,Destiny 2,Free To Play,FI,2024-08-09 12:05
 44,1144200,Ready or Not,NT$ 846.00,FI,2024-08-09 12:05
 45,1091500,Cyberpunk 2077,"NT$ 1,599.00",FI,2024-08-09 12:05
-46,38036,Crusader Kings III: Chapter III,"NT$ 1,130.00",FI,2024-08-09 12:05
 47,2305840,Cat Quest III,NT$ 340.00,FI,2024-08-09 12:05
 48,202970,Call of Duty®: Black Ops II,NT$ 623.00,FI,2024-08-09 12:05
-49,34877,IL-2 Sturmovik: Battle of Normandy Deluxe,NT$ 881.00,FI,2024-08-09 12:05
 50,2567870,Chained Together,NT$ 102.00,FI,2024-08-09 12:05
 51,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",FI,2024-08-09 12:05
 52,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,FI,2024-08-09 12:05
-53,37745,Not A Real Casino Bundle,NT$ 595.00,FI,2024-08-09 12:05
 54,1158310,Crusader Kings III,"NT$ 1,268.00",FI,2024-08-09 12:05
-55,12584,Command Modern Operations + Tacview Advanced,"NT$ 1,191.00",FI,2024-08-09 12:05
 56,2488620,F1® 24,"NT$ 1,439.00",FI,2024-08-09 12:05
-57,22085,Europa Universalis IV: Ultimate Bundle,"NT$ 8,531.00",FI,2024-08-09 12:05
 58,1659040,HITMAN World of Assassination,NT$ 420.00,FI,2024-08-09 12:05
 59,1449850,Yu-Gi-Oh! Master Duel,Free To Play,FI,2024-08-09 12:05
 60,2751000,Prince of Persia The Lost Crown,NT$ 677.00,FI,2024-08-09 12:05
 61,377160,Fallout 4,NT$ 239.00,FI,2024-08-09 12:05
 62,311210,Call of Duty®: Black Ops III,NT$ 659.00,FI,2024-08-09 12:05
-63,13009,Monster Hunter World: Iceborne Digital Deluxe,"NT$ 1,540.00",FI,2024-08-09 12:05
-64,28881,Northwest Bundle,"NT$ 1,602.00",FI,2024-08-09 12:05
 65,1237970,Titanfall® 2,NT$ 79.00,FI,2024-08-09 12:05
 66,548430,Deep Rock Galactic,NT$ 144.00,FI,2024-08-09 12:05
 67,494840,UBOAT,NT$ 146.00,FI,2024-08-09 12:05
 68,1174180,Red Dead Redemption 2,"NT$ 1,790.00",FI,2024-08-09 12:05
-69,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",FI,2024-08-09 12:05
 70,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,FI,2024-08-09 12:05
 71,516750,My Summer Car,NT$ 268.00,FI,2024-08-09 12:05
 72,236850,Europa Universalis IV,"NT$ 1,018.00",FI,2024-08-09 12:05
-73,27490,DOOM Classic Bundle,NT$ 347.00,FI,2024-08-09 12:05
 74,1517290,Battlefield™ 2042,NT$ 239.00,FI,2024-08-09 12:05
-75,21648,NejicomiSimulator Complete Pack(hidden by your preferences),"NT$ 3,081.00",FI,2024-08-09 12:05
 76,686810,Hell Let Loose,NT$ 899.00,FI,2024-08-09 12:05
 77,2395210,Tony Hawk's™ Pro Skater™ 1 + 2,NT$ 499.00,FI,2024-08-09 12:05
 78,1938090,Call of Duty®,NT$ 499.00,FI,2024-08-09 12:05
 79,1384160,GUILTY GEAR -STRIVE-,"NT$ 1,193.00",FI,2024-08-09 12:05
-80,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,FI,2024-08-09 12:05
 81,1282100,REMNANT II®,NT$ 550.00,FI,2024-08-09 12:05
 82,1407200,World of Tanks,Free To Play,FI,2024-08-09 12:05
 83,1343400,RuneScape ®,Free To Play,FI,2024-08-09 12:05
-84,2662630,The Elder Scrolls Online: Gold Road,NT$ 779.00,FI,2024-08-09 12:05
 85,1985810,Call of Duty®: Black Ops Cold War,NT$ 626.00,FI,2024-08-09 12:05
 86,1289670,EA Play,NT$ 34.00,FI,2024-08-09 12:05
 87,1203220,NARAKA: BLADEPOINT,Free To Play,FI,2024-08-09 12:05
@@ -93,8 +75,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 92,227300,Euro Truck Simulator 2,NT$ 428.00,FI,2024-08-09 12:05
 93,107410,Arma 3,NT$ 698.00,FI,2024-08-09 12:05
 94,1693980,Dead Space,NT$ 559.00,FI,2024-08-09 12:05
-95,32181,SpongeBob SquarePants Bundle,NT$ 424.00,FI,2024-08-09 12:05
-96,15435,Wolfenstein Alt History Collection,NT$ 436.00,FI,2024-08-09 12:05
 97,1332010,Stray,NT$ 323.00,FI,2024-08-09 12:05
 98,1232580,Knock on the Coffin Lid,NT$ 302.00,FI,2024-08-09 12:05
 99,2670630,Supermarket Simulator,NT$ 238.00,FI,2024-08-09 12:05

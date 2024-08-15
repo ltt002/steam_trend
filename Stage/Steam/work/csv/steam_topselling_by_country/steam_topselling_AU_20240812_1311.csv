@@ -1,6 +1,5 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,AU,2024-08-12 13:11
-2,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",AU,2024-08-12 13:11
 3,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",AU,2024-08-12 13:11
 4,397540,Borderlands 3,NT$ 178.00,AU,2024-08-12 13:11
 5,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",AU,2024-08-12 13:11
@@ -28,7 +27,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 27,1985810,Call of Duty®: Black Ops Cold War,NT$ 626.00,AU,2024-08-12 13:11
 28,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",AU,2024-08-12 13:11
 29,49520,Borderlands 2,NT$ 149.00,AU,2024-08-12 13:11
-30,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,AU,2024-08-12 13:11
 31,2142790,Fields of Mistria,NT$ 248.00,AU,2024-08-12 13:11
 32,381210,Dead by Daylight,NT$ 379.00,AU,2024-08-12 13:11
 33,2519060,Call of Duty®: Modern Warfare® III,"NT$ 2,219.00",AU,2024-08-12 13:11
@@ -43,7 +41,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 42,2840770,Avatar: Frontiers of Pandora™,NT$ 995.00,AU,2024-08-12 13:11
 43,2400510,Dungeons & Degenerate Gamblers,NT$ 241.00,AU,2024-08-12 13:11
 44,440,Team Fortress 2,Free To Play,AU,2024-08-12 13:11
-45,15435,Wolfenstein Alt History Collection,NT$ 436.00,AU,2024-08-12 13:11
 46,1237970,Titanfall® 2,NT$ 79.00,AU,2024-08-12 13:11
 47,2366980,Thank Goodness You're Here!,NT$ 296.00,AU,2024-08-12 13:11
 48,427410,Abiotic Factor,NT$ 326.00,AU,2024-08-12 13:11
@@ -53,31 +50,23 @@ Rank,GameID,GameName,Cost,Country,Datetime
 52,1091500,Cyberpunk 2077,"NT$ 1,599.00",AU,2024-08-12 13:11
 53,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",AU,2024-08-12 13:11
 54,413150,Stardew Valley,NT$ 318.00,AU,2024-08-12 13:11
-55,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,AU,2024-08-12 13:11
 56,2344520,Diablo® IV,"NT$ 1,575.00",AU,2024-08-12 13:11
 57,2141910,Magic: The Gathering Arena(not available in your region),"NT$ 1,575.00",AU,2024-08-12 13:11
-58,1962663,Call of Duty®: Warzone™,Free To Play,AU,2024-08-12 13:11
 59,2399830,ARK: Survival Ascended,"NT$ 1,382.00",AU,2024-08-12 13:11
 60,739630,Phasmophobia,NT$ 198.00,AU,2024-08-12 13:11
 61,1599340,Lost Ark(not available in your region),NT$ 198.00,AU,2024-08-12 13:11
-62,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,AU,2024-08-12 13:11
 63,261640,Borderlands: The Pre-Sequel,NT$ 446.00,AU,2024-08-12 13:11
 64,1332010,Stray,NT$ 323.00,AU,2024-08-12 13:11
 65,1716740,Starfield,"NT$ 1,333.00",AU,2024-08-12 13:11
 66,1149460,ICARUS,NT$ 283.00,AU,2024-08-12 13:11
-67,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,AU,2024-08-12 13:11
 68,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",AU,2024-08-12 13:11
-69,38285,ARK Upgrade Bundle,"NT$ 1,382.00",AU,2024-08-12 13:11
 70,2790720,Call of Duty®: Modern Warfare® III - BlackCell (Season 5),"NT$ 1,008.00",AU,2024-08-12 13:11
 71,251570,7 Days to Die,NT$ 670.00,AU,2024-08-12 13:11
-72,15366,DOOM Franchise Bundle,NT$ 995.00,AU,2024-08-12 13:11
-73,1476970,IdleOn - The Idle RPG,Free To Play,AU,2024-08-12 13:11
 74,1282100,REMNANT II®,NT$ 550.00,AU,2024-08-12 13:11
 75,548430,Deep Rock Galactic,NT$ 144.00,AU,2024-08-12 13:11
 76,1517290,Battlefield™ 2042,NT$ 239.00,AU,2024-08-12 13:11
 77,1659040,HITMAN World of Assassination,NT$ 420.00,AU,2024-08-12 13:11
 78,1142710,Total War: WARHAMMER III,"NT$ 1,790.00",AU,2024-08-12 13:11
-79,5554,Annapurna Interactive Collection,"NT$ 6,448.00",AU,2024-08-12 13:11
 80,281990,Stellaris,"NT$ 1,018.00",AU,2024-08-12 13:11
 81,2670630,Supermarket Simulator,NT$ 238.00,AU,2024-08-12 13:11
 82,1250410,Microsoft Flight Simulator 40th Anniversary Edition,"NT$ 1,690.00",AU,2024-08-12 13:11
@@ -85,9 +74,7 @@ Rank,GameID,GameName,Cost,Country,Datetime
 84,294100,RimWorld,NT$ 529.00,AU,2024-08-12 13:11
 85,216150,MapleStory(not available in your region),NT$ 529.00,AU,2024-08-12 13:11
 86,960090,Bloons TD 6,NT$ 248.00,AU,2024-08-12 13:11
-87,3782,Fallout Franchise Bundle,"NT$ 1,615.00",AU,2024-08-12 13:11
 88,1449850,Yu-Gi-Oh! Master Duel,Free To Play,AU,2024-08-12 13:11
-89,37745,Not A Real Casino Bundle,NT$ 595.00,AU,2024-08-12 13:11
 90,1562430,DREDGE,NT$ 486.00,AU,2024-08-12 13:11
 91,1203620,Enshrouded,NT$ 499.00,AU,2024-08-12 13:11
 92,1326470,Sons Of The Forest,NT$ 488.00,AU,2024-08-12 13:11
@@ -97,5 +84,4 @@ Rank,GameID,GameName,Cost,Country,Datetime
 96,1158310,Crusader Kings III,"NT$ 1,268.00",AU,2024-08-12 13:11
 97,2526380,Sword of Convallaria,Free To Play,AU,2024-08-12 13:11
 98,275850,No Man's Sky,NT$ 898.00,AU,2024-08-12 13:11
-99,15587,Arkane 20th Anniversary Bundle,NT$ 645.00,AU,2024-08-12 13:11
 100,582660,Black Desert,NT$ 200.00,AU,2024-08-12 13:11

@@ -1,42 +1,33 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,FI,2024-08-11 12:05
 2,578080,PUBG: BATTLEGROUNDS,Free To Play,FI,2024-08-11 12:05
-3,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",FI,2024-08-11 12:05
 4,238960,Path of Exile(not available in your region),"NT$ 1,119.00",FI,2024-08-11 12:05
 5,236390,War Thunder,Free To Play,FI,2024-08-11 12:05
 6,1593500,God of War,NT$ 476.00,FI,2024-08-11 12:05
-7,1675200,Steam Deck,NT$ 476.00,FI,2024-08-11 12:05
 8,397540,Borderlands 3,NT$ 178.00,FI,2024-08-11 12:05
-9,354231,Valve Index VR Kit(not available in your region),NT$ 178.00,FI,2024-08-11 12:05
 10,1222670,The Sims™ 4,Free To Play,FI,2024-08-11 12:05
 11,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",FI,2024-08-11 12:05
 12,440,Team Fortress 2,Free To Play,FI,2024-08-11 12:05
 13,1808680,Snufkin: Melody of Moominvalley,NT$ 262.00,FI,2024-08-11 12:05
 14,306130,The Elder Scrolls® Online,NT$ 179.00,FI,2024-08-11 12:05
-15,1059530,Valve Index® Headset(not available in your region),NT$ 179.00,FI,2024-08-11 12:05
 16,2074920,The First Descendant,Free To Play,FI,2024-08-11 12:05
 17,271590,Grand Theft Auto V,NT$ 662.00,FI,2024-08-11 12:05
 18,570,Dota 2,Free To Play,FI,2024-08-11 12:05
 19,553850,HELLDIVERS™ 2,"NT$ 1,190.00",FI,2024-08-11 12:05
 20,1245620,ELDEN RING,"NT$ 1,790.00",FI,2024-08-11 12:05
 21,230410,Warframe,Free To Play,FI,2024-08-11 12:05
-22,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,FI,2024-08-11 12:05
 23,1086940,Baldur's Gate 3,"NT$ 1,599.00",FI,2024-08-11 12:05
 24,39210,FINAL FANTASY XIV Online(not available in your region),"NT$ 1,599.00",FI,2024-08-11 12:05
-25,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,FI,2024-08-11 12:05
 26,377160,Fallout 4,NT$ 239.00,FI,2024-08-11 12:05
-27,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,FI,2024-08-11 12:05
 28,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,FI,2024-08-11 12:05
 29,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",FI,2024-08-11 12:05
 30,381210,Dead by Daylight,NT$ 379.00,FI,2024-08-11 12:05
 31,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",FI,2024-08-11 12:05
-32,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,FI,2024-08-11 12:05
 33,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",FI,2024-08-11 12:05
 34,1172470,Apex Legends™,Free To Play,FI,2024-08-11 12:05
 35,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,FI,2024-08-11 12:05
 36,782330,DOOM Eternal,NT$ 299.00,FI,2024-08-11 12:05
 37,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,FI,2024-08-11 12:05
-38,15435,Wolfenstein Alt History Collection,NT$ 436.00,FI,2024-08-11 12:05
 39,2567870,Chained Together,NT$ 102.00,FI,2024-08-11 12:05
 40,1091500,Cyberpunk 2077,"NT$ 1,599.00",FI,2024-08-11 12:05
 41,2139460,Once Human,Free To Play,FI,2024-08-11 12:05
@@ -44,10 +35,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 43,393080,Call of Duty®: Modern Warfare® Remastered (2017),NT$ 655.00,FI,2024-08-11 12:05
 44,1716740,Starfield,"NT$ 1,333.00",FI,2024-08-11 12:05
 45,1237970,Titanfall® 2,NT$ 79.00,FI,2024-08-11 12:05
-46,24346,Hunt: Showdown - Starter Hunter Edition,"NT$ 1,025.00",FI,2024-08-11 12:05
 47,1085660,Destiny 2,Free To Play,FI,2024-08-11 12:05
 48,2141910,Magic: The Gathering Arena(not available in your region),Free To Play,FI,2024-08-11 12:05
-49,28590, Crysis Remastered Trilogy,NT$ 590.00,FI,2024-08-11 12:05
 50,49520,Borderlands 2,NT$ 149.00,FI,2024-08-11 12:05
 51,427410,Abiotic Factor,NT$ 326.00,FI,2024-08-11 12:05
 52,311210,Call of Duty®: Black Ops III,NT$ 659.00,FI,2024-08-11 12:05
@@ -56,28 +45,21 @@ Rank,GameID,GameName,Cost,Country,Datetime
 55,413150,Stardew Valley,NT$ 318.00,FI,2024-08-11 12:05
 56,1151340,Fallout 76,NT$ 299.00,FI,2024-08-11 12:05
 57,1343400,RuneScape ®,Free To Play,FI,2024-08-11 12:05
-58,1476970,IdleOn - The Idle RPG,Free To Play,FI,2024-08-11 12:05
 59,548430,Deep Rock Galactic,NT$ 144.00,FI,2024-08-11 12:05
-60,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",FI,2024-08-11 12:05
 61,1232580,Knock on the Coffin Lid,NT$ 302.00,FI,2024-08-11 12:05
 62,1172620,Sea of Thieves: 2024 Edition,"NT$ 1,088.00",FI,2024-08-11 12:05
 63,516750,My Summer Car,NT$ 268.00,FI,2024-08-11 12:05
 64,1144200,Ready or Not,NT$ 846.00,FI,2024-08-11 12:05
 65,294100,RimWorld,NT$ 529.00,FI,2024-08-11 12:05
-66,1059550,Valve Index® Controllers(not available in your region),NT$ 529.00,FI,2024-08-11 12:05
 67,2142790,Fields of Mistria,NT$ 248.00,FI,2024-08-11 12:05
 68,739630,Phasmophobia,NT$ 198.00,FI,2024-08-11 12:05
 69,2344520,Diablo® IV,"NT$ 1,575.00",FI,2024-08-11 12:05
 70,2280,DOOM + DOOM II,NT$ 285.00,FI,2024-08-11 12:05
 71,1282100,REMNANT II®,NT$ 550.00,FI,2024-08-11 12:05
 72,686810,Hell Let Loose,NT$ 899.00,FI,2024-08-11 12:05
-73,10539,FINAL FANTASY XV EPISODE ARDYN COMPLETE EDITION,"NT$ 1,780.00",FI,2024-08-11 12:05
 74,1407200,World of Tanks,Free To Play,FI,2024-08-11 12:05
-75,4308,NARUTO SHIPPUDEN: Ultimate Ninja STORM Legacy,"NT$ 1,822.00",FI,2024-08-11 12:05
 76,386180,Crossout,Free To Play,FI,2024-08-11 12:05
-77,33608,HELLDIVERS™ 2 Super Citizen Edition,"NT$ 1,432.00",FI,2024-08-11 12:05
 78,284160,BeamNG.drive,NT$ 408.00,FI,2024-08-11 12:05
-79,27500,Quake Collection Bundle,NT$ 495.00,FI,2024-08-11 12:05
 80,2400510,Dungeons & Degenerate Gamblers,NT$ 241.00,FI,2024-08-11 12:05
 81,202970,Call of Duty®: Black Ops II,NT$ 623.00,FI,2024-08-11 12:05
 82,1562430,DREDGE,NT$ 486.00,FI,2024-08-11 12:05
@@ -88,12 +70,9 @@ Rank,GameID,GameName,Cost,Country,Datetime
 87,380600,Fishing Planet,Free To Play,FI,2024-08-11 12:05
 88,582660,Black Desert,NT$ 200.00,FI,2024-08-11 12:05
 89,2751000,Prince of Persia The Lost Crown,NT$ 677.00,FI,2024-08-11 12:05
-90,762491,METAL GEAR SOLID - Master Collection Version EU(not available in your region),NT$ 677.00,FI,2024-08-11 12:05
 91,1599340,Lost Ark(not available in your region),NT$ 677.00,FI,2024-08-11 12:05
 92,261640,Borderlands: The Pre-Sequel,NT$ 446.00,FI,2024-08-11 12:05
 93,22380,Fallout: New Vegas,NT$ 149.00,FI,2024-08-11 12:05
-94,1643320,S.T.A.L.K.E.R. 2: Heart of Chornobyl,"NT$ 1,699.00",FI,2024-08-11 12:05
-95,319,Worms Collection,NT$ 789.00,FI,2024-08-11 12:05
 96,1332010,Stray,NT$ 323.00,FI,2024-08-11 12:05
 97,1517290,Battlefield™ 2042,NT$ 239.00,FI,2024-08-11 12:05
 98,2396240,SteamWorld Heist II,NT$ 439.00,FI,2024-08-11 12:05
