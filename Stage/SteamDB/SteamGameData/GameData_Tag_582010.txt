@@ -17,5 +17,5 @@ Replay Value
 Atmospheric
 Hack and Slash
 JRPG
-Souls-like
 MMORPG
+Souls-like

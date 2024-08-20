@@ -19,7 +19,7 @@ gcs_partition_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirnam
 log_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(current_file_path))),"Data","GCS_partition","log")
 
 # GSC路徑
-gsutil_partition_path = "gs://steam_trend/partition/"
+gsutil_partition_path = " gs://tir102-project-database/data/"
 
 def format_MostPlayedGames():
     dir_name = "MostPlayedGames"
@@ -79,9 +79,9 @@ def format_MostPlayedGames():
     result = subprocess.run(["powershell", "-Command", command_partition], capture_output=True, text=True)
     logging.info(f'GCS: Uploaded {os.path.join(gcs_partition_path, dir_name, "dt="+file_date)} to {gsutil_partition_path}{dir_name}/ {result.stdout}')
 
-    command_log = f'gsutil cp "{log_file}" {gsutil_partition_path}log/'
+    command_log = f'gsutil cp "{log_file}" {gsutil_partition_path}'
     result = subprocess.run(["powershell", "-Command", command_log], capture_output=True, text=True)
-    logging.info(f'GCS: Uploaded {log_file} to {gsutil_partition_path}log/ {result.stdout}')
+    logging.info(f'GCS: Uploaded {log_file} to {gsutil_partition_path} {result.stdout}')
 
 
 def format_TopRatedGames_All():

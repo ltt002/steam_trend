@@ -10,12 +10,12 @@ Military
 Tanks
 Naval Combat
 Simulation
+Multiplayer
 Massively Multiplayer
 Modern
-Multiplayer
 Cold War
 Action
 Realistic
 Shooter
-Third-Person Shooter
 Third Person
+Third-Person Shooter
