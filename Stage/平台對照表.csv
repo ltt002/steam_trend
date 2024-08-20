@@ -3,7 +3,8 @@ Android,Android
 iPad,iOS
 iPhone,iOS
 Linux,Linux
-Macintosh,Macintosh
+Macintosh,Mac
+Mac,Mac
 Nintendo Switch,Nintendo Switch
 PlayStation 2,PlayStation
 PlayStation 3,PlayStation
@@ -14,6 +15,7 @@ PS Vita,PlayStation
 Quest,Quest
 Stadia,Stadia
 Wii,Wii
+Win,Windows
 Windows,Windows
 Windows Apps,Windows
 Xbox 360,Xbox

@@ -1,13 +1,10 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,CZ,2024-08-10 12:05
 2,1593500,God of War,NT$ 476.00,CZ,2024-08-10 12:05
-3,1675200,Steam Deck,NT$ 476.00,CZ,2024-08-10 12:05
 4,570,Dota 2,Free To Play,CZ,2024-08-10 12:05
-5,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",CZ,2024-08-10 12:05
 6,578080,PUBG: BATTLEGROUNDS,Free To Play,CZ,2024-08-10 12:05
 7,236390,War Thunder,Free To Play,CZ,2024-08-10 12:05
 8,397540,Borderlands 3,NT$ 178.00,CZ,2024-08-10 12:05
-9,15435,Wolfenstein Alt History Collection,NT$ 436.00,CZ,2024-08-10 12:05
 10,306130,The Elder Scrolls® Online,NT$ 179.00,CZ,2024-08-10 12:05
 11,782330,DOOM Eternal,NT$ 299.00,CZ,2024-08-10 12:05
 12,1222670,The Sims™ 4,Free To Play,CZ,2024-08-10 12:05
@@ -19,36 +16,27 @@ Rank,GameID,GameName,Cost,Country,Datetime
 18,553850,HELLDIVERS™ 2,"NT$ 1,190.00",CZ,2024-08-10 12:05
 19,227300,Euro Truck Simulator 2,NT$ 428.00,CZ,2024-08-10 12:05
 20,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",CZ,2024-08-10 12:05
-21,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,CZ,2024-08-10 12:05
 22,1245620,ELDEN RING,"NT$ 1,790.00",CZ,2024-08-10 12:05
 23,252490,Rust,NT$ 694.00,CZ,2024-08-10 12:05
 24,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,CZ,2024-08-10 12:05
 25,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,CZ,2024-08-10 12:05
 26,271590,Grand Theft Auto V,NT$ 662.00,CZ,2024-08-10 12:05
-27,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",CZ,2024-08-10 12:05
-28,354231,Valve Index VR Kit(not available in your region),"NT$ 2,099.00",CZ,2024-08-10 12:05
 29,377160,Fallout 4,NT$ 239.00,CZ,2024-08-10 12:05
-30,3096,Crusader Kings II: Imperial Collection,"NT$ 6,782.00",CZ,2024-08-10 12:05
 31,739630,Phasmophobia,NT$ 198.00,CZ,2024-08-10 12:05
 32,2139460,Once Human,Free To Play,CZ,2024-08-10 12:05
-33,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,CZ,2024-08-10 12:05
 34,1237970,Titanfall® 2,NT$ 79.00,CZ,2024-08-10 12:05
 35,230410,Warframe,Free To Play,CZ,2024-08-10 12:05
-36,2041,Armello - Collector's Edition,NT$ 899.00,CZ,2024-08-10 12:05
 37,1599340,Lost Ark(not available in your region),NT$ 899.00,CZ,2024-08-10 12:05
 38,1172470,Apex Legends™,Free To Play,CZ,2024-08-10 12:05
 39,2358720,Black Myth: Wukong,"NT$ 1,280.00",CZ,2024-08-10 12:05
 40,494840,UBOAT,NT$ 146.00,CZ,2024-08-10 12:05
 41,381210,Dead by Daylight,NT$ 379.00,CZ,2024-08-10 12:05
 42,49520,Borderlands 2,NT$ 149.00,CZ,2024-08-10 12:05
-43,1059530,Valve Index® Headset(not available in your region),NT$ 149.00,CZ,2024-08-10 12:05
-44,24337,Being a DIK: Season 1 & 2 + The complete official guide Season 1 & 2(hidden by your preferences),NT$ 732.00,CZ,2024-08-10 12:05
 45,1286680,Tiny Tina's Wonderlands,NT$ 433.00,CZ,2024-08-10 12:05
 46,440,Team Fortress 2,Free To Play,CZ,2024-08-10 12:05
 47,1716740,Starfield,"NT$ 1,333.00",CZ,2024-08-10 12:05
 48,2808930,Lust Goddess(hidden by your preferences),Free To Play,CZ,2024-08-10 12:05
 49,612880,Wolfenstein II: The New Colossus,NT$ 179.00,CZ,2024-08-10 12:05
-50,15587,Arkane 20th Anniversary Bundle,NT$ 645.00,CZ,2024-08-10 12:05
 51,1818450,STALCRAFT: X,Free To Play,CZ,2024-08-10 12:05
 52,2751000,Prince of Persia The Lost Crown,NT$ 677.00,CZ,2024-08-10 12:05
 53,201810,Wolfenstein: The New Order,NT$ 161.00,CZ,2024-08-10 12:05
@@ -57,30 +45,24 @@ Rank,GameID,GameName,Cost,Country,Datetime
 56,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",CZ,2024-08-10 12:05
 57,2280,DOOM + DOOM II,NT$ 285.00,CZ,2024-08-10 12:05
 58,1469610,Last Train Home,NT$ 299.00,CZ,2024-08-10 12:05
-59,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,CZ,2024-08-10 12:05
 60,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,CZ,2024-08-10 12:05
 61,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",CZ,2024-08-10 12:05
 62,1091500,Cyberpunk 2077,"NT$ 1,599.00",CZ,2024-08-10 12:05
 63,2670630,Supermarket Simulator,NT$ 238.00,CZ,2024-08-10 12:05
 64,413150,Stardew Valley,NT$ 318.00,CZ,2024-08-10 12:05
 65,1407200,World of Tanks,Free To Play,CZ,2024-08-10 12:05
-66,5141,SteamWorld Complete Bundle,"NT$ 1,017.00",CZ,2024-08-10 12:05
 67,2344520,Diablo® IV,"NT$ 1,575.00",CZ,2024-08-10 12:05
 68,379720,DOOM,NT$ 119.00,CZ,2024-08-10 12:05
 69,2488620,F1® 24,"NT$ 1,439.00",CZ,2024-08-10 12:05
 70,2698780,ContractVille,NT$ 328.00,CZ,2024-08-10 12:05
-71,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,CZ,2024-08-10 12:05
 72,2567870,Chained Together,NT$ 102.00,CZ,2024-08-10 12:05
-73,15366,DOOM Franchise Bundle,NT$ 995.00,CZ,2024-08-10 12:05
 74,1144200,Ready or Not,NT$ 846.00,CZ,2024-08-10 12:05
 75,1056960,Wolfenstein: Youngblood,NT$ 149.00,CZ,2024-08-10 12:05
 76,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",CZ,2024-08-10 12:05
 77,438040,Shakes and Fidget,Free To Play,CZ,2024-08-10 12:05
 78,1717250,Ratten Reich,NT$ 262.00,CZ,2024-08-10 12:05
 79,350080,Wolfenstein: The Old Blood,NT$ 117.00,CZ,2024-08-10 12:05
-80,34712,MILFs of Sunville: Season 1 + DLC + MILFs of Sunville: Season 2 Bundle(hidden by your preferences),NT$ 449.00,CZ,2024-08-10 12:05
 81,1551360,Forza Horizon 5,"NT$ 1,688.00",CZ,2024-08-10 12:05
-82,27490,DOOM Classic Bundle,NT$ 347.00,CZ,2024-08-10 12:05
 83,2322010,God of War Ragnarök,"NT$ 1,490.00",CZ,2024-08-10 12:05
 84,2396240,SteamWorld Heist II,NT$ 439.00,CZ,2024-08-10 12:05
 85,1250410,Microsoft Flight Simulator 40th Anniversary Edition,"NT$ 1,690.00",CZ,2024-08-10 12:05
@@ -89,7 +71,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 88,261640,Borderlands: The Pre-Sequel,NT$ 446.00,CZ,2024-08-10 12:05
 89,284160,BeamNG.drive,NT$ 408.00,CZ,2024-08-10 12:05
 90,1465360,SnowRunner,NT$ 849.00,CZ,2024-08-10 12:05
-91,1962663,Call of Duty®: Warzone™,Free To Play,CZ,2024-08-10 12:05
 92,480490,Prey,NT$ 179.00,CZ,2024-08-10 12:05
 93,784150,Workers & Resources: Soviet Republic,NT$ 649.00,CZ,2024-08-10 12:05
 94,221100,DayZ,"NT$ 1,499.00",CZ,2024-08-10 12:05
@@ -97,5 +78,4 @@ Rank,GameID,GameName,Cost,Country,Datetime
 96,548430,Deep Rock Galactic,NT$ 144.00,CZ,2024-08-10 12:05
 97,1172620,Sea of Thieves: 2024 Edition,"NT$ 1,088.00",CZ,2024-08-10 12:05
 98,394360,Hearts of Iron IV,"NT$ 1,268.00",CZ,2024-08-10 12:05
-99,28061,Complete your set,NT$ 709.00,CZ,2024-08-10 12:05
 100,1174180,Red Dead Redemption 2,"NT$ 1,790.00",CZ,2024-08-10 12:05

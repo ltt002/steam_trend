@@ -1,17 +1,13 @@
 Rank,GameID,GameName,Cost,Country,Datetime
-1,1675200,Steam Deck,"NT$ 1,790.00",NL,2024-08-08 12:03
 2,2074920,The First Descendant,Free To Play,NL,2024-08-08 12:03
 3,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,NL,2024-08-08 12:03
 4,1222670,The Sims™ 4,Free To Play,NL,2024-08-08 12:03
-5,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",NL,2024-08-08 12:03
-6,22037,Pure Love Bundle,"NT$ 2,248.00",NL,2024-08-08 12:03
 7,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",NL,2024-08-08 12:03
 8,2396980,Fate/stay night REMASTERED,NT$ 439.00,NL,2024-08-08 12:03
 9,2139460,Once Human,Free To Play,NL,2024-08-08 12:03
 10,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",NL,2024-08-08 12:03
 11,381210,Dead by Daylight,NT$ 151.00,NL,2024-08-08 12:03
 12,271590,Grand Theft Auto V,NT$ 662.00,NL,2024-08-08 12:03
-13,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,NL,2024-08-08 12:03
 14,238960,Path of Exile(not available in your region),NT$ 662.00,NL,2024-08-08 12:03
 15,236390,War Thunder,Free To Play,NL,2024-08-08 12:03
 16,230410,Warframe,Free To Play,NL,2024-08-08 12:03
@@ -27,7 +23,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 26,227300,Euro Truck Simulator 2,NT$ 428.00,NL,2024-08-08 12:03
 27,252490,Rust,NT$ 694.00,NL,2024-08-08 12:03
 28,2358720,Black Myth: Wukong,"NT$ 1,280.00",NL,2024-08-08 12:03
-29,36652,Jagged Alliance Ultimate Bundle,"NT$ 1,183.00",NL,2024-08-08 12:03
 30,570,Dota 2,Free To Play,NL,2024-08-08 12:03
 31,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",NL,2024-08-08 12:03
 32,553850,HELLDIVERS™ 2,"NT$ 1,190.00",NL,2024-08-08 12:03
@@ -45,56 +40,40 @@ Rank,GameID,GameName,Cost,Country,Datetime
 44,1250410,Microsoft Flight Simulator 40th Anniversary Edition,"NT$ 1,690.00",NL,2024-08-08 12:03
 45,1142710,Total War: WARHAMMER III,"NT$ 1,790.00",NL,2024-08-08 12:03
 46,1774580,STAR WARS Jedi: Survivor™,NT$ 899.00,NL,2024-08-08 12:03
-47,15253,Fell Seal: Arbiter's Mark + Missions and Monsters DLC,NT$ 653.00,NL,2024-08-08 12:03
 48,2395210,Tony Hawk's™ Pro Skater™ 1 + 2,NT$ 499.00,NL,2024-08-08 12:03
 49,1332010,Stray,NT$ 323.00,NL,2024-08-08 12:03
 50,212500,The Lord of the Rings Online™,Free To Play,NL,2024-08-08 12:03
-51,42824,Untitled Goose Game & Thank Goodness You're Here! Bundle,NT$ 625.00,NL,2024-08-08 12:03
-52,6451,Activision® Collection,"NT$ 12,348.00",NL,2024-08-08 12:03
 53,42700,Call of Duty®: Black Ops,NT$ 618.00,NL,2024-08-08 12:03
 54,2141910,Magic: The Gathering Arena(not available in your region),NT$ 618.00,NL,2024-08-08 12:03
-55,39887,Total War: WARHAMMER III – Thrones of Decay,NT$ 687.00,NL,2024-08-08 12:03
 56,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,NL,2024-08-08 12:03
 57,1351240,Taxi Life: A City Driving Simulator,NT$ 323.00,NL,2024-08-08 12:03
-58,22193,Car Mechanic Ultimate Bundle,"NT$ 5,537.00",NL,2024-08-08 12:03
 59,992300,嗜血印 Bloody Spell,NT$ 63.00,NL,2024-08-08 12:03
-60,39394,Command & Conquer™ The Ultimate Collection,NT$ 288.00,NL,2024-08-08 12:03
 61,107410,Arma 3,NT$ 174.00,NL,2024-08-08 12:03
-62,88801,Dying Light Enhanced Edition,NT$ 449.00,NL,2024-08-08 12:03
 63,2591280,F1® Manager 2024,NT$ 820.00,NL,2024-08-08 12:03
 64,1203220,NARAKA: BLADEPOINT,Free To Play,NL,2024-08-08 12:03
 65,2248760,Car For Sale Simulator 2023,NT$ 298.00,NL,2024-08-08 12:03
 66,2519060,Call of Duty®: Modern Warfare® III,"NT$ 2,219.00",NL,2024-08-08 12:03
 67,494840,UBOAT,NT$ 146.00,NL,2024-08-08 12:03
-68,8032,RollerCoaster Tycoon® Collection,"NT$ 1,428.00",NL,2024-08-08 12:03
 69,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",NL,2024-08-08 12:03
 70,1091500,Cyberpunk 2077,"NT$ 1,599.00",NL,2024-08-08 12:03
 71,983380,Car Manufacture,NT$ 295.00,NL,2024-08-08 12:03
 72,216150,MapleStory(not available in your region),NT$ 295.00,NL,2024-08-08 12:03
 73,1151340,Fallout 76,"NT$ 1,199.00",NL,2024-08-08 12:03
 74,739630,Phasmophobia,NT$ 248.00,NL,2024-08-08 12:03
-75,42137,Golf With Your Friends - Complete the Set,"NT$ 1,053.00",NL,2024-08-08 12:03
-76,1696780,Steam Deck Docking Station,"NT$ 1,053.00",NL,2024-08-08 12:03
-77,10143,SEGA Mega Drive and Genesis Classics,"NT$ 1,075.00",NL,2024-08-08 12:03
-78,6208,Crusader Kings II: Royal Collection,"NT$ 4,029.00",NL,2024-08-08 12:03
 79,284160,BeamNG.drive,NT$ 408.00,NL,2024-08-08 12:03
 80,1985810,Call of Duty®: Black Ops Cold War,NT$ 626.00,NL,2024-08-08 12:03
-81,43679,Highrise City Complete Edition,NT$ 404.00,NL,2024-08-08 12:03
 82,1517290,Battlefield™ 2042,NT$ 239.00,NL,2024-08-08 12:03
 83,2366980,Thank Goodness You're Here!,NT$ 296.00,NL,2024-08-08 12:03
-84,37986,Rail Route Supporter Bundle,NT$ 396.00,NL,2024-08-08 12:03
 85,1934680,Age of Mythology: Retold,"NT$ 1,018.00",NL,2024-08-08 12:03
 86,548430,Deep Rock Galactic,NT$ 144.00,NL,2024-08-08 12:03
 87,582660,Black Desert,NT$ 200.00,NL,2024-08-08 12:03
 88,2304440,Creatures of Ava,NT$ 367.00,NL,2024-08-08 12:03
-89,15587,Arkane 20th Anniversary Bundle,"NT$ 2,651.00",NL,2024-08-08 12:03
 90,266410,iRacing,NT$ 278.00,NL,2024-08-08 12:03
 91,2300320,Farming Simulator 25,"NT$ 1,199.00",NL,2024-08-08 12:03
 92,730,Counter-Strike 2,Free To Play,NL,2024-08-08 12:03
 93,1144200,Ready or Not,NT$ 846.00,NL,2024-08-08 12:03
 94,2526380,Sword of Convallaria,Free To Play,NL,2024-08-08 12:03
 95,359320,Elite Dangerous,NT$ 458.00,NL,2024-08-08 12:03
-96,14296,HYPERCHARGE COMPLETE EDITION,NT$ 985.00,NL,2024-08-08 12:03
 97,1938090,Call of Duty®,NT$ 985.00,NL,2024-08-08 12:03
 98,413150,Stardew Valley,NT$ 398.00,NL,2024-08-08 12:03
 99,2197680,That Time I Got Reincarnated as a Slime ISEKAI Chronicles,"NT$ 1,490.00",NL,2024-08-08 12:03

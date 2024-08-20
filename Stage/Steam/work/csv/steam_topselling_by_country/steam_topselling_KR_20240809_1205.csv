@@ -26,10 +26,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 25,1222670,The Sims™ 4,Free To Play,KR,2024-08-09 12:05
 26,2751000,Prince of Persia The Lost Crown,NT$ 677.00,KR,2024-08-09 12:05
 27,108600,Project Zomboid,NT$ 328.00,KR,2024-08-09 12:05
-28,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,KR,2024-08-09 12:05
 29,1623730,Palworld,NT$ 488.00,KR,2024-08-09 12:05
 30,1629520,A Little to the Left,NT$ 160.00,KR,2024-08-09 12:05
-31,43117,Extra Tidy Bundle,NT$ 405.00,KR,2024-08-09 12:05
 32,381210,Dead by Daylight,NT$ 379.00,KR,2024-08-09 12:05
 33,306130,The Elder Scrolls® Online,NT$ 179.00,KR,2024-08-09 12:05
 34,236390,War Thunder,Free To Play,KR,2024-08-09 12:05
@@ -37,11 +35,9 @@ Rank,GameID,GameName,Cost,Country,Datetime
 36,230410,Warframe,Free To Play,KR,2024-08-09 12:05
 37,413150,Stardew Valley,NT$ 318.00,KR,2024-08-09 12:05
 38,1086940,Baldur's Gate 3,"NT$ 1,599.00",KR,2024-08-09 12:05
-39,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",KR,2024-08-09 12:05
 40,1665460,eFootball™ 2024,Free To Play,KR,2024-08-09 12:05
 41,2526380,Sword of Convallaria,Free To Play,KR,2024-08-09 12:05
 42,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",KR,2024-08-09 12:05
-43,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,KR,2024-08-09 12:05
 44,1966720,Lethal Company,NT$ 188.00,KR,2024-08-09 12:05
 45,3065160,Orc Hunter Wizard Emona(hidden by your preferences),NT$ 241.00,KR,2024-08-09 12:05
 46,960170,DJMAX RESPECT V,NT$ 698.00,KR,2024-08-09 12:05
@@ -53,8 +49,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 52,1282100,REMNANT II®,NT$ 550.00,KR,2024-08-09 12:05
 53,546560,Half-Life: Alyx,NT$ 305.00,KR,2024-08-09 12:05
 54,1237970,Titanfall® 2,NT$ 79.00,KR,2024-08-09 12:05
-55,2336880,Destiny 2: The Final Shape,NT$ 884.00,KR,2024-08-09 12:05
-56,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",KR,2024-08-09 12:05
 57,1943950,Escape the Backrooms,NT$ 186.00,KR,2024-08-09 12:05
 58,552990,World of Warships,Free To Play,KR,2024-08-09 12:05
 59,397540,Borderlands 3,NT$ 178.00,KR,2024-08-09 12:05
@@ -65,20 +59,17 @@ Rank,GameID,GameName,Cost,Country,Datetime
 64,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,KR,2024-08-09 12:05
 65,252490,Rust,NT$ 694.00,KR,2024-08-09 12:05
 66,782330,DOOM Eternal,NT$ 299.00,KR,2024-08-09 12:05
-67,13014,Monster Hunter World: Iceborne Master Edition Digital Deluxe,"NT$ 2,150.00",KR,2024-08-09 12:05
 68,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",KR,2024-08-09 12:05
 69,2305840,Cat Quest III,NT$ 340.00,KR,2024-08-09 12:05
 70,2349820,Hero's Land,Free To Play,KR,2024-08-09 12:05
 71,1091500,Cyberpunk 2077,"NT$ 1,599.00",KR,2024-08-09 12:05
 72,1144200,Ready or Not,NT$ 846.00,KR,2024-08-09 12:05
-73,2405,The Binding of Isaac: Rebirth Complete Bundle,NT$ 930.00,KR,2024-08-09 12:05
 74,2668080,Snowbreak: Containment Zone,Free To Play,KR,2024-08-09 12:05
 75,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",KR,2024-08-09 12:05
 76,1517290,Battlefield™ 2042,NT$ 239.00,KR,2024-08-09 12:05
 77,2252570,Football Manager 2024,"NT$ 1,299.00",KR,2024-08-09 12:05
 78,2937670,Ore no Yome VR(hidden by your preferences),NT$ 439.00,KR,2024-08-09 12:05
 79,582010,Monster Hunter: World,NT$ 920.00,KR,2024-08-09 12:05
-80,37256,House Flipper Franchise Bundle,"NT$ 1,931.00",KR,2024-08-09 12:05
 81,2963870,Metal Slug: Awakening(not available in your region),"NT$ 1,931.00",KR,2024-08-09 12:05
 82,2670630,Supermarket Simulator,NT$ 238.00,KR,2024-08-09 12:05
 83,1232580,Knock on the Coffin Lid,NT$ 302.00,KR,2024-08-09 12:05
@@ -86,16 +77,13 @@ Rank,GameID,GameName,Cost,Country,Datetime
 85,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,KR,2024-08-09 12:05
 86,1407200,World of Tanks,Free To Play,KR,2024-08-09 12:05
 87,993090,Lossless Scaling,NT$ 138.00,KR,2024-08-09 12:05
-88,9211,"Warhammer 40,000: Gladius Complete Edition","NT$ 2,874.00",KR,2024-08-09 12:05
 89,1174180,Red Dead Redemption 2,"NT$ 1,790.00",KR,2024-08-09 12:05
 90,1693980,Dead Space,NT$ 559.00,KR,2024-08-09 12:05
 91,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,KR,2024-08-09 12:05
 92,322330,Don't Starve Together,NT$ 268.00,KR,2024-08-09 12:05
 93,431960,Wallpaper Engine,NT$ 120.00,KR,2024-08-09 12:05
 94,1332010,Stray,NT$ 323.00,KR,2024-08-09 12:05
-95,15366,DOOM Franchise Bundle,NT$ 995.00,KR,2024-08-09 12:05
 96,739630,Phasmophobia,NT$ 198.00,KR,2024-08-09 12:05
 97,1367080,MOBILE SUIT GUNDAM BATTLE OPERATION 2,Free To Play,KR,2024-08-09 12:05
 98,1954420,RiichiCity - ACG mahjong games,Free To Play,KR,2024-08-09 12:05
-99,24546,COLLABORATION BUNDLE - DJMAX RESPECT V,"NT$ 2,513.00",KR,2024-08-09 12:05
 100,1151340,Fallout 76,NT$ 299.00,KR,2024-08-09 12:05

@@ -1,11 +1,9 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,AT,2024-08-08 12:03
-2,1675200,Steam Deck,Free To Play,AT,2024-08-08 12:03
 3,2074920,The First Descendant,Free To Play,AT,2024-08-08 12:03
 4,578080,PUBG: BATTLEGROUNDS,Free To Play,AT,2024-08-08 12:03
 5,236390,War Thunder,Free To Play,AT,2024-08-08 12:03
 6,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",AT,2024-08-08 12:03
-7,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",AT,2024-08-08 12:03
 8,271590,Grand Theft Auto V,NT$ 662.00,AT,2024-08-08 12:03
 9,238960,Path of Exile(not available in your region),NT$ 662.00,AT,2024-08-08 12:03
 10,1245620,ELDEN RING,"NT$ 1,790.00",AT,2024-08-08 12:03
@@ -22,36 +20,27 @@ Rank,GameID,GameName,Cost,Country,Datetime
 21,1085660,Destiny 2,Free To Play,AT,2024-08-08 12:03
 22,2142790,Fields of Mistria,NT$ 248.00,AT,2024-08-08 12:03
 23,2395210,Tony Hawk's™ Pro Skater™ 1 + 2,NT$ 499.00,AT,2024-08-08 12:03
-24,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,AT,2024-08-08 12:03
 25,252490,Rust,NT$ 694.00,AT,2024-08-08 12:03
-26,1059530,Valve Index® Headset(not available in your region),NT$ 694.00,AT,2024-08-08 12:03
 27,2488620,F1® 24,"NT$ 1,439.00",AT,2024-08-08 12:03
 28,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",AT,2024-08-08 12:03
 29,306130,The Elder Scrolls® Online,NT$ 599.00,AT,2024-08-08 12:03
-30,354231,Valve Index VR Kit(not available in your region),NT$ 599.00,AT,2024-08-08 12:03
 31,570,Dota 2,Free To Play,AT,2024-08-08 12:03
 32,546560,Half-Life: Alyx,NT$ 305.00,AT,2024-08-08 12:03
-33,11256,Arma 3 Ultimate Edition,"NT$ 1,258.00",AT,2024-08-08 12:03
 34,1086940,Baldur's Gate 3,"NT$ 1,599.00",AT,2024-08-08 12:03
 35,553850,HELLDIVERS™ 2,"NT$ 1,190.00",AT,2024-08-08 12:03
 36,2344520,Diablo® IV,"NT$ 1,575.00",AT,2024-08-08 12:03
 37,2197680,That Time I Got Reincarnated as a Slime ISEKAI Chronicles,"NT$ 1,490.00",AT,2024-08-08 12:03
-38,12878,Operator's Pack,"NT$ 1,340.00",AT,2024-08-08 12:03
 39,39210,FINAL FANTASY XIV Online(not available in your region),"NT$ 1,340.00",AT,2024-08-08 12:03
 40,2300320,Farming Simulator 25,"NT$ 1,199.00",AT,2024-08-08 12:03
-41,26959,The Riftbreaker Complete Pack,"NT$ 1,055.00",AT,2024-08-08 12:03
 42,1551360,Forza Horizon 5,"NT$ 1,688.00",AT,2024-08-08 12:03
-43,21105,ARK: Ultimate Survivor Edition,NT$ 649.00,AT,2024-08-08 12:03
 44,2396980,Fate/stay night REMASTERED,NT$ 439.00,AT,2024-08-08 12:03
 45,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,AT,2024-08-08 12:03
-46,43679,Highrise City Complete Edition,NT$ 404.00,AT,2024-08-08 12:03
 47,311210,Call of Duty®: Black Ops III,NT$ 659.00,AT,2024-08-08 12:03
 48,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",AT,2024-08-08 12:03
 49,494840,UBOAT,NT$ 146.00,AT,2024-08-08 12:03
 50,2519060,Call of Duty®: Modern Warfare® III,"NT$ 2,219.00",AT,2024-08-08 12:03
 51,440,Team Fortress 2,Free To Play,AT,2024-08-08 12:03
 52,1774580,STAR WARS Jedi: Survivor™,NT$ 899.00,AT,2024-08-08 12:03
-53,43373,Atlas Fallen: Reign of Sand - Ruin Rising Bundle,NT$ 574.00,AT,2024-08-08 12:03
 54,227300,Euro Truck Simulator 2,NT$ 428.00,AT,2024-08-08 12:03
 55,1248130,Farming Simulator 22,NT$ 650.00,AT,2024-08-08 12:03
 56,1351240,Taxi Life: A City Driving Simulator,NT$ 323.00,AT,2024-08-08 12:03
@@ -60,10 +49,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 59,1013320,Firestone: Online Idle RPG,Free To Play,AT,2024-08-08 12:03
 60,1250410,Microsoft Flight Simulator 40th Anniversary Edition,"NT$ 1,690.00",AT,2024-08-08 12:03
 61,1449850,Yu-Gi-Oh! Master Duel,Free To Play,AT,2024-08-08 12:03
-62,2123,Zup-Zup!,NT$ 680.00,AT,2024-08-08 12:03
 63,1144200,Ready or Not,NT$ 846.00,AT,2024-08-08 12:03
 64,107410,Arma 3,NT$ 174.00,AT,2024-08-08 12:03
-65,41962,Cat Quest Trilogy,NT$ 430.00,AT,2024-08-08 12:03
 66,1938090,Call of Duty®,NT$ 430.00,AT,2024-08-08 12:03
 67,1489970,Highrise City,NT$ 244.00,AT,2024-08-08 12:03
 68,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",AT,2024-08-08 12:03
@@ -71,19 +58,14 @@ Rank,GameID,GameName,Cost,Country,Datetime
 70,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",AT,2024-08-08 12:03
 71,2141910,Magic: The Gathering Arena(not available in your region),"NT$ 1,490.00",AT,2024-08-08 12:03
 72,992300,嗜血印 Bloody Spell,NT$ 63.00,AT,2024-08-08 12:03
-73,1962663,Call of Duty®: Warzone™,Free To Play,AT,2024-08-08 12:03
 74,1230530,Atlas Fallen: Reign Of Sand,NT$ 549.00,AT,2024-08-08 12:03
-75,39940,SpellRogue: Gold Edition,NT$ 387.00,AT,2024-08-08 12:03
 76,1286830,STAR WARS™: The Old Republic™,Free To Play,AT,2024-08-08 12:03
 77,2670630,Supermarket Simulator,NT$ 238.00,AT,2024-08-08 12:03
-78,39966,"My Pleasure - Seasons 1, 2, 3(hidden by your preferences)",NT$ 683.00,AT,2024-08-08 12:03
 79,284160,BeamNG.drive,NT$ 408.00,AT,2024-08-08 12:03
 80,1623730,Palworld,NT$ 488.00,AT,2024-08-08 12:03
-81,34096,Survive And Build Bundle,"NT$ 1,248.00",AT,2024-08-08 12:03
 82,2591280,F1® Manager 2024,NT$ 820.00,AT,2024-08-08 12:03
 83,1407200,World of Tanks,Free To Play,AT,2024-08-08 12:03
 84,2790720,Call of Duty®: Modern Warfare® III - BlackCell (Season 5),"NT$ 1,008.00",AT,2024-08-08 12:03
-85,1696780,Steam Deck Docking Station,"NT$ 1,008.00",AT,2024-08-08 12:03
 86,2406770,Bodycam,NT$ 566.00,AT,2024-08-08 12:03
 87,905370,Conqueror's Blade(not available in your region),NT$ 566.00,AT,2024-08-08 12:03
 88,1174180,Red Dead Redemption 2,"NT$ 1,790.00",AT,2024-08-08 12:03
@@ -91,7 +73,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 90,983380,Car Manufacture,NT$ 295.00,AT,2024-08-08 12:03
 91,1089090,ONE PIECE: PIRATE WARRIORS 4,NT$ 297.00,AT,2024-08-08 12:03
 92,251570,7 Days to Die,NT$ 670.00,AT,2024-08-08 12:03
-93,28883,Texas-sized Bundle,"NT$ 1,182.00",AT,2024-08-08 12:03
 94,518790,theHunter: Call of the Wild™,NT$ 318.00,AT,2024-08-08 12:03
 95,444200,World of Tanks Blitz,Free To Play,AT,2024-08-08 12:03
 96,1017180,The Long Drive,NT$ 278.00,AT,2024-08-08 12:03
