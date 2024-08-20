@@ -1,12 +1,9 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,DE,2024-08-10 12:05
-2,1675200,Steam Deck,Free To Play,DE,2024-08-10 12:05
 3,2074920,The First Descendant,Free To Play,DE,2024-08-10 12:05
 4,1593500,God of War,NT$ 476.00,DE,2024-08-10 12:05
 5,306130,The Elder Scrolls® Online,NT$ 179.00,DE,2024-08-10 12:05
-6,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",DE,2024-08-10 12:05
 7,236390,War Thunder,Free To Play,DE,2024-08-10 12:05
-8,354231,Valve Index VR Kit(not available in your region),Free To Play,DE,2024-08-10 12:05
 9,578080,PUBG: BATTLEGROUNDS,Free To Play,DE,2024-08-10 12:05
 10,1857090,Norland,NT$ 699.00,DE,2024-08-10 12:05
 11,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",DE,2024-08-10 12:05
@@ -19,7 +16,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 18,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",DE,2024-08-10 12:05
 19,2662170,Train Sim World® 4: Expert DB BR 101 & IC Steuerwagen Loco Add-On,NT$ 599.00,DE,2024-08-10 12:05
 20,1449850,Yu-Gi-Oh! Master Duel,Free To Play,DE,2024-08-10 12:05
-21,15435,Wolfenstein Alt History Collection,NT$ 436.00,DE,2024-08-10 12:05
 22,1245620,ELDEN RING,"NT$ 1,790.00",DE,2024-08-10 12:05
 23,381210,Dead by Daylight,NT$ 379.00,DE,2024-08-10 12:05
 24,1599340,Lost Ark(not available in your region),NT$ 379.00,DE,2024-08-10 12:05
@@ -27,7 +23,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 26,2567870,Chained Together,NT$ 102.00,DE,2024-08-10 12:05
 27,230410,Warframe,Free To Play,DE,2024-08-10 12:05
 28,2142790,Fields of Mistria,NT$ 248.00,DE,2024-08-10 12:05
-29,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,DE,2024-08-10 12:05
 30,1086940,Baldur's Gate 3,"NT$ 1,599.00",DE,2024-08-10 12:05
 31,377160,Fallout 4,NT$ 239.00,DE,2024-08-10 12:05
 32,1151340,Fallout 76,NT$ 299.00,DE,2024-08-10 12:05
@@ -36,10 +31,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 35,1717250,Ratten Reich,NT$ 262.00,DE,2024-08-10 12:05
 36,570,Dota 2,Free To Play,DE,2024-08-10 12:05
 37,271590,Grand Theft Auto V,NT$ 662.00,DE,2024-08-10 12:05
-38,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",DE,2024-08-10 12:05
 39,252490,Rust,NT$ 694.00,DE,2024-08-10 12:05
 40,2751000,Prince of Persia The Lost Crown,NT$ 677.00,DE,2024-08-10 12:05
-41,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,DE,2024-08-10 12:05
 42,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,DE,2024-08-10 12:05
 43,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,DE,2024-08-10 12:05
 44,494840,UBOAT,NT$ 146.00,DE,2024-08-10 12:05
@@ -47,7 +40,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 46,1172470,Apex Legends™,Free To Play,DE,2024-08-10 12:05
 47,1716740,Starfield,"NT$ 1,333.00",DE,2024-08-10 12:05
 48,2344520,Diablo® IV,"NT$ 1,575.00",DE,2024-08-10 12:05
-49,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,DE,2024-08-10 12:05
 50,1085660,Destiny 2,Free To Play,DE,2024-08-10 12:05
 51,227300,Euro Truck Simulator 2,NT$ 428.00,DE,2024-08-10 12:05
 52,2358720,Black Myth: Wukong,"NT$ 1,280.00",DE,2024-08-10 12:05
@@ -60,33 +52,26 @@ Rank,GameID,GameName,Cost,Country,Datetime
 59,49520,Borderlands 2,NT$ 149.00,DE,2024-08-10 12:05
 60,311210,Call of Duty®: Black Ops III,NT$ 659.00,DE,2024-08-10 12:05
 61,784150,Workers & Resources: Soviet Republic,NT$ 649.00,DE,2024-08-10 12:05
-62,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,DE,2024-08-10 12:05
 63,1643310,Dungeons 4,NT$ 825.00,DE,2024-08-10 12:05
 64,2300320,Farming Simulator 25,"NT$ 1,199.00",DE,2024-08-10 12:05
 65,413150,Stardew Valley,NT$ 318.00,DE,2024-08-10 12:05
-66,15366,DOOM Franchise Bundle,NT$ 995.00,DE,2024-08-10 12:05
 67,739630,Phasmophobia,NT$ 198.00,DE,2024-08-10 12:05
 68,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",DE,2024-08-10 12:05
 69,546560,Half-Life: Alyx,NT$ 305.00,DE,2024-08-10 12:05
 70,1326470,Sons Of The Forest,NT$ 488.00,DE,2024-08-10 12:05
 71,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,DE,2024-08-10 12:05
-72,38285,ARK Upgrade Bundle,"NT$ 1,382.00",DE,2024-08-10 12:05
 73,2400510,Dungeons & Degenerate Gamblers,NT$ 241.00,DE,2024-08-10 12:05
-74,1059530,Valve Index® Headset(not available in your region),NT$ 241.00,DE,2024-08-10 12:05
 75,1203620,Enshrouded,NT$ 499.00,DE,2024-08-10 12:05
 76,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",DE,2024-08-10 12:05
 77,2305840,Cat Quest III,NT$ 340.00,DE,2024-08-10 12:05
 78,1232580,Knock on the Coffin Lid,NT$ 302.00,DE,2024-08-10 12:05
 79,1172620,Sea of Thieves: 2024 Edition,"NT$ 1,088.00",DE,2024-08-10 12:05
 80,2280,DOOM + DOOM II,NT$ 285.00,DE,2024-08-10 12:05
-81,1962663,Call of Duty®: Warzone™,Free To Play,DE,2024-08-10 12:05
 82,1017180,The Long Drive,NT$ 278.00,DE,2024-08-10 12:05
 83,612880,Wolfenstein II: The New Colossus,NT$ 179.00,DE,2024-08-10 12:05
-84,62722,Wolfenstein: The Old Blood(not available in your region),NT$ 179.00,DE,2024-08-10 12:05
 85,2964020,"Dungeons 4 - The Good, the Bad and the Evil",NT$ 315.00,DE,2024-08-10 12:05
 86,202970,Call of Duty®: Black Ops II,NT$ 623.00,DE,2024-08-10 12:05
 87,1091500,Cyberpunk 2077,"NT$ 1,599.00",DE,2024-08-10 12:05
-88,39394,Command & Conquer™ The Ultimate Collection,NT$ 288.00,DE,2024-08-10 12:05
 89,2426960,Summoners War,Free To Play,DE,2024-08-10 12:05
 90,440,Team Fortress 2,Free To Play,DE,2024-08-10 12:05
 91,1248130,Farming Simulator 22,NT$ 650.00,DE,2024-08-10 12:05

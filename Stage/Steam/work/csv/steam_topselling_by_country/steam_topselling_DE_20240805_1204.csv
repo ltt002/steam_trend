@@ -1,6 +1,5 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,DE,2024-08-05 12:04
-2,1675200,Steam Deck,Free To Play,DE,2024-08-05 12:04
 3,2074920,The First Descendant,Free To Play,DE,2024-08-05 12:04
 4,238960,Path of Exile(not available in your region),Free To Play,DE,2024-08-05 12:04
 5,2139460,Once Human,Free To Play,DE,2024-08-05 12:04
@@ -18,8 +17,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 17,230410,Warframe,Free To Play,DE,2024-08-05 12:04
 18,227300,Euro Truck Simulator 2,NT$ 428.00,DE,2024-08-05 12:04
 19,271590,Grand Theft Auto V,NT$ 662.00,DE,2024-08-05 12:04
-20,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",DE,2024-08-05 12:04
-21,354231,Valve Index VR Kit(not available in your region),"NT$ 2,099.00",DE,2024-08-05 12:04
 22,1222670,The Sims™ 4,Free To Play,DE,2024-08-05 12:04
 23,570,Dota 2,Free To Play,DE,2024-08-05 12:04
 24,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",DE,2024-08-05 12:04
@@ -27,7 +24,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 26,1172470,Apex Legends™,Free To Play,DE,2024-08-05 12:04
 27,1017180,The Long Drive,NT$ 278.00,DE,2024-08-05 12:04
 28,553850,HELLDIVERS™ 2,"NT$ 1,190.00",DE,2024-08-05 12:04
-29,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,DE,2024-08-05 12:04
 30,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",DE,2024-08-05 12:04
 31,2300320,Farming Simulator 25,"NT$ 1,199.00",DE,2024-08-05 12:04
 32,756800,Contraband Police,NT$ 292.00,DE,2024-08-05 12:04
@@ -37,7 +33,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 36,784150,Workers & Resources: Soviet Republic,NT$ 649.00,DE,2024-08-05 12:04
 37,1119730,"Ranch Simulator: Build, Hunt, Farm",NT$ 113.00,DE,2024-08-05 12:04
 38,2519060,Call of Duty®: Modern Warfare® III,"NT$ 1,220.00",DE,2024-08-05 12:04
-39,1059530,Valve Index® Headset(not available in your region),"NT$ 1,220.00",DE,2024-08-05 12:04
 40,1432860,Sun Haven,NT$ 189.00,DE,2024-08-05 12:04
 41,1248130,Farming Simulator 22,NT$ 650.00,DE,2024-08-05 12:04
 42,1144200,Ready or Not,NT$ 846.00,DE,2024-08-05 12:04
@@ -57,20 +52,15 @@ Rank,GameID,GameName,Cost,Country,Datetime
 56,1326470,Sons Of The Forest,NT$ 488.00,DE,2024-08-05 12:04
 57,1091500,Cyberpunk 2077,"NT$ 1,599.00",DE,2024-08-05 12:04
 58,1085660,Destiny 2,Free To Play,DE,2024-08-05 12:04
-59,39394,Command & Conquer™ The Ultimate Collection,NT$ 720.00,DE,2024-08-05 12:04
 60,1465360,SnowRunner,NT$ 424.00,DE,2024-08-05 12:04
-61,6465,Call of Duty® Franchise Collection,"NT$ 31,101.00",DE,2024-08-05 12:04
 62,1250410,Microsoft Flight Simulator 40th Anniversary Edition,"NT$ 1,690.00",DE,2024-08-05 12:04
 63,2344520,Diablo® IV,"NT$ 1,575.00",DE,2024-08-05 12:04
 64,2591280,F1® Manager 2024,NT$ 820.00,DE,2024-08-05 12:04
 65,2141910,Magic: The Gathering Arena(not available in your region),NT$ 820.00,DE,2024-08-05 12:04
 66,1551360,Forza Horizon 5,"NT$ 1,688.00",DE,2024-08-05 12:04
-67,1962663,Call of Duty®: Warzone™,Free To Play,DE,2024-08-05 12:04
 68,1371580,Myth of Empires,NT$ 244.00,DE,2024-08-05 12:04
 69,960090,Bloons TD 6,NT$ 124.00,DE,2024-08-05 12:04
-70,3015760,Ready or Not: Home Invasion,NT$ 249.00,DE,2024-08-05 12:04
 71,2399830,ARK: Survival Ascended,"NT$ 1,382.00",DE,2024-08-05 12:04
-72,43419,Car and UBOAT Manufacture,NT$ 396.00,DE,2024-08-05 12:04
 73,2488620,F1® 24,"NT$ 1,999.00",DE,2024-08-05 12:04
 74,1286830,STAR WARS™: The Old Republic™,Free To Play,DE,2024-08-05 12:04
 75,1407200,World of Tanks,Free To Play,DE,2024-08-05 12:04
@@ -82,7 +72,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 81,3129990,UBOAT - Supporter Pack,NT$ 106.00,DE,2024-08-05 12:04
 82,1637320,Dome Keeper,NT$ 119.00,DE,2024-08-05 12:04
 83,552990,World of Warships,Free To Play,DE,2024-08-05 12:04
-84,35840,Balkans Bundle,"NT$ 1,154.00",DE,2024-08-05 12:04
 85,648800,Raft,NT$ 468.00,DE,2024-08-05 12:04
 86,2961880,Grocery Store Simulator,NT$ 152.00,DE,2024-08-05 12:04
 87,294100,RimWorld,NT$ 529.00,DE,2024-08-05 12:04
@@ -90,7 +79,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 89,2362300,Train Sim World® 4,NT$ 599.00,DE,2024-08-05 12:04
 90,2358720,Black Myth: Wukong,"NT$ 1,280.00",DE,2024-08-05 12:04
 91,780310,The Riftbreaker,NT$ 268.00,DE,2024-08-05 12:04
-92,42732,Workers & Resources: Soviet Republic - Complete,NT$ 824.00,DE,2024-08-05 12:04
 93,548430,Deep Rock Galactic,NT$ 144.00,DE,2024-08-05 12:04
 94,1105420,Game of Thrones Winter is Coming,Free To Play,DE,2024-08-05 12:04
 95,739630,Phasmophobia,NT$ 248.00,DE,2024-08-05 12:04
