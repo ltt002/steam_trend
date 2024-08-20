@@ -11,11 +11,11 @@ Online Co-Op
 Building
 Exploration
 Sandbox
-Simulation
 FPS
+Simulation
 Character Customization
 Strategy
-Tower Defense
 Action
+Tower Defense
 Procedural Generation
 Horror

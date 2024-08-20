@@ -2,8 +2,8 @@
 FPS
 PvP
 eSports
-Tactical
 Multiplayer
+Tactical
 Shooter
 Competitive
 Online Co-Op
