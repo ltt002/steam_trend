@@ -1,30 +1,21 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,PL,2024-08-11 12:05
-2,1675200,Steam Deck,Free To Play,PL,2024-08-11 12:05
 3,1593500,God of War,NT$ 476.00,PL,2024-08-11 12:05
 4,1326470,Sons Of The Forest,NT$ 488.00,PL,2024-08-11 12:05
 5,238960,Path of Exile(not available in your region),NT$ 488.00,PL,2024-08-11 12:05
 6,397540,Borderlands 3,NT$ 178.00,PL,2024-08-11 12:05
-7,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",PL,2024-08-11 12:05
 8,236390,War Thunder,Free To Play,PL,2024-08-11 12:05
 9,570,Dota 2,Free To Play,PL,2024-08-11 12:05
 10,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,PL,2024-08-11 12:05
 11,1086940,Baldur's Gate 3,"NT$ 1,599.00",PL,2024-08-11 12:05
 12,739630,Phasmophobia,NT$ 198.00,PL,2024-08-11 12:05
-13,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",PL,2024-08-11 12:05
-14,354231,Valve Index VR Kit(not available in your region),"NT$ 2,099.00",PL,2024-08-11 12:05
-15,1059530,Valve Index® Headset(not available in your region),"NT$ 2,099.00",PL,2024-08-11 12:05
 16,381210,Dead by Daylight,NT$ 379.00,PL,2024-08-11 12:05
-17,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,PL,2024-08-11 12:05
 18,2074920,The First Descendant,Free To Play,PL,2024-08-11 12:05
 19,271590,Grand Theft Auto V,NT$ 662.00,PL,2024-08-11 12:05
 20,1222670,The Sims™ 4,Free To Play,PL,2024-08-11 12:05
-21,29097,The Lucky 7 Bundle,"NT$ 1,281.00",PL,2024-08-11 12:05
 22,227300,Euro Truck Simulator 2,NT$ 428.00,PL,2024-08-11 12:05
 23,1245620,ELDEN RING,"NT$ 1,790.00",PL,2024-08-11 12:05
 24,444200,World of Tanks Blitz,Free To Play,PL,2024-08-11 12:05
-25,15435,Wolfenstein Alt History Collection,NT$ 436.00,PL,2024-08-11 12:05
-26,22933,Planet Zoo: Ultimate Edition,"NT$ 5,181.00",PL,2024-08-11 12:05
 27,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,PL,2024-08-11 12:05
 28,553850,HELLDIVERS™ 2,"NT$ 1,190.00",PL,2024-08-11 12:05
 29,306130,The Elder Scrolls® Online,NT$ 179.00,PL,2024-08-11 12:05
@@ -36,23 +27,18 @@ Rank,GameID,GameName,Cost,Country,Datetime
 35,230410,Warframe,Free To Play,PL,2024-08-11 12:05
 36,1846380,Need for Speed™ Unbound,NT$ 199.00,PL,2024-08-11 12:05
 37,380600,Fishing Planet,Free To Play,PL,2024-08-11 12:05
-38,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,PL,2024-08-11 12:05
 39,578080,PUBG: BATTLEGROUNDS,Free To Play,PL,2024-08-11 12:05
 40,440,Team Fortress 2,Free To Play,PL,2024-08-11 12:05
-41,2405,The Binding of Isaac: Rebirth Complete Bundle,NT$ 930.00,PL,2024-08-11 12:05
 42,1237970,Titanfall® 2,NT$ 79.00,PL,2024-08-11 12:05
 43,2344520,Diablo® IV,"NT$ 1,575.00",PL,2024-08-11 12:05
-44,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,PL,2024-08-11 12:05
 45,2567870,Chained Together,NT$ 102.00,PL,2024-08-11 12:05
 46,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",PL,2024-08-11 12:05
 47,1551360,Forza Horizon 5,"NT$ 1,688.00",PL,2024-08-11 12:05
 48,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",PL,2024-08-11 12:05
-49,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,PL,2024-08-11 12:05
 50,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",PL,2024-08-11 12:05
 51,284160,BeamNG.drive,NT$ 408.00,PL,2024-08-11 12:05
 52,1091500,Cyberpunk 2077,"NT$ 1,599.00",PL,2024-08-11 12:05
 53,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",PL,2024-08-11 12:05
-54,40111,Gray Zone Warfare - Supporter Edition Upgrade,"NT$ 1,062.00",PL,2024-08-11 12:05
 55,2139460,Once Human,Free To Play,PL,2024-08-11 12:05
 56,252490,Rust,NT$ 694.00,PL,2024-08-11 12:05
 57,1222680,Need for Speed™ Heat,NT$ 199.00,PL,2024-08-11 12:05
@@ -85,7 +71,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 84,1818450,STALCRAFT: X,Free To Play,PL,2024-08-11 12:05
 85,1774580,STAR WARS Jedi: Survivor™,NT$ 899.00,PL,2024-08-11 12:05
 86,394360,Hearts of Iron IV,"NT$ 1,268.00",PL,2024-08-11 12:05
-87,5701,Grand Theft Auto V: Premium Edition & Whale Shark Card Bundle,"NT$ 1,869.00",PL,2024-08-11 12:05
 88,1174180,Red Dead Redemption 2,"NT$ 1,790.00",PL,2024-08-11 12:05
 89,476600,Call of Duty®: WWII,NT$ 659.00,PL,2024-08-11 12:05
 90,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,PL,2024-08-11 12:05
@@ -98,4 +83,3 @@ Rank,GameID,GameName,Cost,Country,Datetime
 97,1363080,Manor Lords,NT$ 999.00,PL,2024-08-11 12:05
 98,2488620,F1® 24,"NT$ 1,439.00",PL,2024-08-11 12:05
 99,534380,Dying Light 2 Stay Human: Reloaded Edition,NT$ 986.00,PL,2024-08-11 12:05
-100,37885,DREDGE - The Pale Reach Bundle,NT$ 567.00,PL,2024-08-11 12:05

@@ -1,6 +1,5 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,US,2024-08-13 12:20
-2,1675200,Steam Deck,Free To Play,US,2024-08-13 12:20
 3,1313140,Cult of the Lamb,NT$ 244.00,US,2024-08-13 12:20
 4,393080,Call of Duty®: Modern Warfare® Remastered (2017),NT$ 655.00,US,2024-08-13 12:20
 5,1091500,Cyberpunk 2077,NT$ 799.00,US,2024-08-13 12:20
@@ -12,11 +11,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 11,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",US,2024-08-13 12:20
 12,1687950,Persona 5 Royal,NT$ 716.00,US,2024-08-13 12:20
 13,397540,Borderlands 3,NT$ 178.00,US,2024-08-13 12:20
-14,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",US,2024-08-13 12:20
 15,230410,Warframe,Free To Play,US,2024-08-13 12:20
-16,32470,Cyberpunk 2077: Ultimate Edition,"NT$ 1,360.00",US,2024-08-13 12:20
 17,311210,Call of Duty®: Black Ops III,NT$ 659.00,US,2024-08-13 12:20
-18,32110,Cult of the Lamb: The One Who Waits,NT$ 647.00,US,2024-08-13 12:20
 19,236390,War Thunder,Free To Play,US,2024-08-13 12:20
 20,553850,HELLDIVERS™ 2,"NT$ 1,190.00",US,2024-08-13 12:20
 21,1086940,Baldur's Gate 3,"NT$ 1,599.00",US,2024-08-13 12:20
@@ -26,7 +22,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 25,1085660,Destiny 2,Free To Play,US,2024-08-13 12:20
 26,381210,Dead by Daylight,NT$ 379.00,US,2024-08-13 12:20
 27,2139460,Once Human,Free To Play,US,2024-08-13 12:20
-28,2890190,Cult of the Lamb: Pilgrim Pack,NT$ 138.00,US,2024-08-13 12:20
 29,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,US,2024-08-13 12:20
 30,1222670,The Sims™ 4,Free To Play,US,2024-08-13 12:20
 31,2138330,Cyberpunk 2077: Phantom Liberty,NT$ 679.00,US,2024-08-13 12:20
@@ -41,7 +36,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 40,1172470,Apex Legends™,Free To Play,US,2024-08-13 12:20
 41,582010,Monster Hunter: World,NT$ 303.00,US,2024-08-13 12:20
 42,49520,Borderlands 2,NT$ 149.00,US,2024-08-13 12:20
-43,1962663,Call of Duty®: Warzone™,Free To Play,US,2024-08-13 12:20
 44,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,US,2024-08-13 12:20
 45,252490,Rust,NT$ 694.00,US,2024-08-13 12:20
 46,202970,Call of Duty®: Black Ops II,NT$ 623.00,US,2024-08-13 12:20
@@ -52,14 +46,11 @@ Rank,GameID,GameName,Cost,Country,Datetime
 51,413150,Stardew Valley,NT$ 318.00,US,2024-08-13 12:20
 52,1622910,Still Wakes the Deep,NT$ 424.00,US,2024-08-13 12:20
 53,2567870,Chained Together,NT$ 102.00,US,2024-08-13 12:20
-54,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,US,2024-08-13 12:20
 55,1144200,Ready or Not,NT$ 846.00,US,2024-08-13 12:20
-56,354231,Valve Index VR Kit(not available in your region),NT$ 846.00,US,2024-08-13 12:20
 57,2141910,Magic: The Gathering Arena(not available in your region),NT$ 846.00,US,2024-08-13 12:20
 58,1449850,Yu-Gi-Oh! Master Duel,Free To Play,US,2024-08-13 12:20
 59,2461850,Senua’s Saga: Hellblade II,"NT$ 1,110.00",US,2024-08-13 12:20
 60,739630,Phasmophobia,NT$ 198.00,US,2024-08-13 12:20
-61,1059530,Valve Index® Headset(not available in your region),NT$ 198.00,US,2024-08-13 12:20
 62,1446780,MONSTER HUNTER RISE,NT$ 280.00,US,2024-08-13 12:20
 63,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",US,2024-08-13 12:20
 64,570,Dota 2,Free To Play,US,2024-08-13 12:20
@@ -67,9 +58,7 @@ Rank,GameID,GameName,Cost,Country,Datetime
 66,2344520,Diablo® IV,"NT$ 1,575.00",US,2024-08-13 12:20
 67,782330,DOOM Eternal,NT$ 299.00,US,2024-08-13 12:20
 68,251570,7 Days to Die,NT$ 670.00,US,2024-08-13 12:20
-69,1118010,Monster Hunter World: Iceborne,NT$ 455.00,US,2024-08-13 12:20
 70,1286680,Tiny Tina's Wonderlands,NT$ 433.00,US,2024-08-13 12:20
-71,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,US,2024-08-13 12:20
 72,1113000,Persona 4 Golden,NT$ 354.00,US,2024-08-13 12:20
 73,1593500,God of War,"NT$ 1,190.00",US,2024-08-13 12:20
 74,1938090,Call of Duty®,"NT$ 1,190.00",US,2024-08-13 12:20
@@ -77,25 +66,19 @@ Rank,GameID,GameName,Cost,Country,Datetime
 76,2366980,Thank Goodness You're Here!,NT$ 296.00,US,2024-08-13 12:20
 77,548430,Deep Rock Galactic,NT$ 144.00,US,2024-08-13 12:20
 78,1237970,Titanfall® 2,NT$ 79.00,US,2024-08-13 12:20
-79,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,US,2024-08-13 12:20
 80,2840770,Avatar: Frontiers of Pandora™,NT$ 995.00,US,2024-08-13 12:20
 81,261640,Borderlands: The Pre-Sequel,NT$ 446.00,US,2024-08-13 12:20
 82,2016590,Dark and Darker,Free To Play,US,2024-08-13 12:20
-83,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,US,2024-08-13 12:20
 84,292030,The Witcher 3: Wild Hunt,NT$ 217.00,US,2024-08-13 12:20
-85,35030,Persona Collection,"NT$ 1,576.00",US,2024-08-13 12:20
 86,2670630,Supermarket Simulator,NT$ 238.00,US,2024-08-13 12:20
 87,582660,Black Desert,NT$ 200.00,US,2024-08-13 12:20
 88,2519060,Call of Duty®: Modern Warfare® III,"NT$ 2,219.00",US,2024-08-13 12:20
 89,1174180,Red Dead Redemption 2,"NT$ 1,790.00",US,2024-08-13 12:20
-90,2336880,Destiny 2: The Final Shape,NT$ 884.00,US,2024-08-13 12:20
 91,1517290,Battlefield™ 2042,NT$ 239.00,US,2024-08-13 12:20
 92,1966720,Lethal Company,NT$ 188.00,US,2024-08-13 12:20
 93,2357570,Overwatch® 2,Free To Play,US,2024-08-13 12:20
-94,13013,Monster Hunter World: Iceborne Master Edition,NT$ 607.00,US,2024-08-13 12:20
 95,294100,RimWorld,NT$ 529.00,US,2024-08-13 12:20
 96,284160,BeamNG.drive,NT$ 408.00,US,2024-08-13 12:20
-97,2015890,Cult of the Lamb Soundtrack,NT$ 122.00,US,2024-08-13 12:20
 98,2881650,Content Warning,NT$ 121.00,US,2024-08-13 12:20
 99,2073850,THE FINALS,Free To Play,US,2024-08-13 12:20
 100,292730,Call of Duty®: Infinite Warfare,NT$ 567.00,US,2024-08-13 12:20

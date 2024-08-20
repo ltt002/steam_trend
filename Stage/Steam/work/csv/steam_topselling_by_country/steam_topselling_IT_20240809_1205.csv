@@ -1,9 +1,7 @@
 Rank,GameID,GameName,Cost,Country,Datetime
-1,1675200,Steam Deck,NT$ 529.00,IT,2024-08-09 12:05
 2,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,IT,2024-08-09 12:05
 3,2074920,The First Descendant,Free To Play,IT,2024-08-09 12:05
 4,553850,HELLDIVERS™ 2,"NT$ 1,190.00",IT,2024-08-09 12:05
-5,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",IT,2024-08-09 12:05
 6,2358720,Black Myth: Wukong,"NT$ 1,280.00",IT,2024-08-09 12:05
 7,730,Counter-Strike 2,Free To Play,IT,2024-08-09 12:05
 8,2751000,Prince of Persia The Lost Crown,NT$ 677.00,IT,2024-08-09 12:05
@@ -13,7 +11,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 12,1665460,eFootball™ 2024,Free To Play,IT,2024-08-09 12:05
 13,306130,The Elder Scrolls® Online,NT$ 179.00,IT,2024-08-09 12:05
 14,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",IT,2024-08-09 12:05
-15,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",IT,2024-08-09 12:05
 16,1222670,The Sims™ 4,Free To Play,IT,2024-08-09 12:05
 17,230410,Warframe,Free To Play,IT,2024-08-09 12:05
 18,381210,Dead by Daylight,NT$ 379.00,IT,2024-08-09 12:05
@@ -21,9 +18,7 @@ Rank,GameID,GameName,Cost,Country,Datetime
 20,236390,War Thunder,Free To Play,IT,2024-08-09 12:05
 21,2344520,Diablo® IV,"NT$ 1,575.00",IT,2024-08-09 12:05
 22,271590,Grand Theft Auto V,NT$ 662.00,IT,2024-08-09 12:05
-23,12999,Space Engineers Ultimate Edition,"NT$ 1,530.00",IT,2024-08-09 12:05
 24,578080,PUBG: BATTLEGROUNDS,Free To Play,IT,2024-08-09 12:05
-25,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,IT,2024-08-09 12:05
 26,397540,Borderlands 3,NT$ 178.00,IT,2024-08-09 12:05
 27,2305840,Cat Quest III,NT$ 340.00,IT,2024-08-09 12:05
 28,2396980,Fate/stay night REMASTERED,NT$ 439.00,IT,2024-08-09 12:05
@@ -36,7 +31,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 35,1085660,Destiny 2,Free To Play,IT,2024-08-09 12:05
 36,1237970,Titanfall® 2,NT$ 79.00,IT,2024-08-09 12:05
 37,2141910,Magic: The Gathering Arena(not available in your region),NT$ 79.00,IT,2024-08-09 12:05
-38,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,IT,2024-08-09 12:05
 39,1599340,Lost Ark(not available in your region),NT$ 662.00,IT,2024-08-09 12:05
 40,2808930,Lust Goddess(hidden by your preferences),Free To Play,IT,2024-08-09 12:05
 41,311210,Call of Duty®: Black Ops III,NT$ 659.00,IT,2024-08-09 12:05
@@ -44,14 +38,12 @@ Rank,GameID,GameName,Cost,Country,Datetime
 43,2488620,F1® 24,"NT$ 1,439.00",IT,2024-08-09 12:05
 44,227300,Euro Truck Simulator 2,NT$ 428.00,IT,2024-08-09 12:05
 45,252490,Rust,NT$ 694.00,IT,2024-08-09 12:05
-46,368776,Kingdom Come: Deliverance Royal Edition,"NT$ 1,170.00",IT,2024-08-09 12:05
 47,546560,Half-Life: Alyx,NT$ 305.00,IT,2024-08-09 12:05
 48,552990,World of Warships,Free To Play,IT,2024-08-09 12:05
 49,1172620,Sea of Thieves: 2024 Edition,"NT$ 1,088.00",IT,2024-08-09 12:05
 50,1203220,NARAKA: BLADEPOINT,Free To Play,IT,2024-08-09 12:05
 51,582660,Black Desert,NT$ 200.00,IT,2024-08-09 12:05
 52,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",IT,2024-08-09 12:05
-53,30424,Borderlands 3 Ultimate Edition,NT$ 732.00,IT,2024-08-09 12:05
 54,2400510,Dungeons & Degenerate Gamblers,NT$ 241.00,IT,2024-08-09 12:05
 55,782330,DOOM Eternal,NT$ 299.00,IT,2024-08-09 12:05
 56,1790600,DRAGON BALL: Sparking! ZERO,"NT$ 1,890.00",IT,2024-08-09 12:05
@@ -59,26 +51,19 @@ Rank,GameID,GameName,Cost,Country,Datetime
 58,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,IT,2024-08-09 12:05
 59,377160,Fallout 4,NT$ 239.00,IT,2024-08-09 12:05
 60,1151340,Fallout 76,NT$ 299.00,IT,2024-08-09 12:05
-61,1962663,Call of Duty®: Warzone™,Free To Play,IT,2024-08-09 12:05
-62,41962,Cat Quest Trilogy,NT$ 430.00,IT,2024-08-09 12:05
 63,2567870,Chained Together,NT$ 102.00,IT,2024-08-09 12:05
 64,1286680,Tiny Tina's Wonderlands,NT$ 433.00,IT,2024-08-09 12:05
 65,444200,World of Tanks Blitz,Free To Play,IT,2024-08-09 12:05
 66,202970,Call of Duty®: Black Ops II,NT$ 623.00,IT,2024-08-09 12:05
-67,15435,Wolfenstein Alt History Collection,NT$ 436.00,IT,2024-08-09 12:05
 68,739630,Phasmophobia,NT$ 198.00,IT,2024-08-09 12:05
-69,32291,Plague and Myth Bundle,NT$ 827.00,IT,2024-08-09 12:05
 70,731490,Crash Bandicoot™ N. Sane Trilogy,NT$ 479.00,IT,2024-08-09 12:05
 71,1250410,Microsoft Flight Simulator 40th Anniversary Edition,"NT$ 1,690.00",IT,2024-08-09 12:05
-72,32076,Sun Haven + Sun Down Survivors,NT$ 456.00,IT,2024-08-09 12:05
-73,39119,WE ARE FOOTBALL Franchise,NT$ 258.00,IT,2024-08-09 12:05
 74,2362300,Train Sim World® 4,NT$ 599.00,IT,2024-08-09 12:05
 75,2142790,Fields of Mistria,NT$ 248.00,IT,2024-08-09 12:05
 76,380600,Fishing Planet,Free To Play,IT,2024-08-09 12:05
 77,1378990,Crash Bandicoot™ 4: It’s About Time,NT$ 645.00,IT,2024-08-09 12:05
 78,250900,The Binding of Isaac: Rebirth,NT$ 268.00,IT,2024-08-09 12:05
 79,49520,Borderlands 2,NT$ 149.00,IT,2024-08-09 12:05
-80,29097,The Lucky 7 Bundle,"NT$ 1,281.00",IT,2024-08-09 12:05
 81,2406770,Bodycam,NT$ 566.00,IT,2024-08-09 12:05
 82,238960,Path of Exile(not available in your region),NT$ 566.00,IT,2024-08-09 12:05
 83,1158310,Crusader Kings III,"NT$ 1,268.00",IT,2024-08-09 12:05
@@ -90,11 +75,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 89,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",IT,2024-08-09 12:05
 90,1643310,Dungeons 4,NT$ 825.00,IT,2024-08-09 12:05
 91,548430,Deep Rock Galactic,NT$ 144.00,IT,2024-08-09 12:05
-92,24815,Risk of Rain 2 + Survivors of the Void Expansion,NT$ 745.00,IT,2024-08-09 12:05
 93,413150,Stardew Valley,NT$ 318.00,IT,2024-08-09 12:05
 94,1332010,Stray,NT$ 323.00,IT,2024-08-09 12:05
-95,30503,X4: Community of Planets Collector's Edition (2024),"NT$ 2,649.00",IT,2024-08-09 12:05
-96,13644,RISK: ALL ACCESS,"NT$ 1,642.00",IT,2024-08-09 12:05
 97,1371980,No Rest for the Wicked,NT$ 650.00,IT,2024-08-09 12:05
 98,454650,DRAGON BALL XENOVERSE 2,NT$ 590.00,IT,2024-08-09 12:05
 99,440,Team Fortress 2,Free To Play,IT,2024-08-09 12:05

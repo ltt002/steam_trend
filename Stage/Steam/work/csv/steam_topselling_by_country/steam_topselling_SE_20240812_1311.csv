@@ -1,24 +1,20 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,SE,2024-08-12 13:11
-2,1675200,Steam Deck,Free To Play,SE,2024-08-12 13:11
 3,238960,Path of Exile(not available in your region),Free To Play,SE,2024-08-12 13:11
 4,570,Dota 2,Free To Play,SE,2024-08-12 13:11
 5,236390,War Thunder,Free To Play,SE,2024-08-12 13:11
 6,578080,PUBG: BATTLEGROUNDS,Free To Play,SE,2024-08-12 13:11
 7,1245620,ELDEN RING,"NT$ 1,790.00",SE,2024-08-12 13:11
-8,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",SE,2024-08-12 13:11
 9,1593500,God of War,NT$ 476.00,SE,2024-08-12 13:11
 10,393080,Call of Duty®: Modern Warfare® Remastered (2017),NT$ 655.00,SE,2024-08-12 13:11
 11,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",SE,2024-08-12 13:11
 12,1086940,Baldur's Gate 3,"NT$ 1,599.00",SE,2024-08-12 13:11
 13,2074920,The First Descendant,Free To Play,SE,2024-08-12 13:11
 14,553850,HELLDIVERS™ 2,"NT$ 1,190.00",SE,2024-08-12 13:11
-15,37256,House Flipper Franchise Bundle,"NT$ 1,931.00",SE,2024-08-12 13:11
 16,397540,Borderlands 3,NT$ 178.00,SE,2024-08-12 13:11
 17,1222670,The Sims™ 4,Free To Play,SE,2024-08-12 13:11
 18,230410,Warframe,Free To Play,SE,2024-08-12 13:11
 19,271590,Grand Theft Auto V,NT$ 662.00,SE,2024-08-12 13:11
-20,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,SE,2024-08-12 13:11
 21,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",SE,2024-08-12 13:11
 22,2139460,Once Human,Free To Play,SE,2024-08-12 13:11
 23,1085660,Destiny 2,Free To Play,SE,2024-08-12 13:11
@@ -31,8 +27,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 30,252490,Rust,NT$ 694.00,SE,2024-08-12 13:11
 31,381210,Dead by Daylight,NT$ 379.00,SE,2024-08-12 13:11
 32,1172470,Apex Legends™,Free To Play,SE,2024-08-12 13:11
-33,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",SE,2024-08-12 13:11
-34,2319,STAR WARS™ Complete Collection,"NT$ 4,054.00",SE,2024-08-12 13:11
 35,1599340,Lost Ark(not available in your region),"NT$ 4,054.00",SE,2024-08-12 13:11
 36,377160,Fallout 4,NT$ 239.00,SE,2024-08-12 13:11
 37,440,Team Fortress 2,Free To Play,SE,2024-08-12 13:11
@@ -43,8 +37,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 42,1237970,Titanfall® 2,NT$ 79.00,SE,2024-08-12 13:11
 43,1232580,Knock on the Coffin Lid,NT$ 302.00,SE,2024-08-12 13:11
 44,227300,Euro Truck Simulator 2,NT$ 428.00,SE,2024-08-12 13:11
-45,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,SE,2024-08-12 13:11
-46,1247,The Sims 3 Collection,"NT$ 5,651.00",SE,2024-08-12 13:11
 47,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",SE,2024-08-12 13:11
 48,1174180,Red Dead Redemption 2,"NT$ 1,790.00",SE,2024-08-12 13:11
 49,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,SE,2024-08-12 13:11
@@ -58,7 +50,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 57,518790,theHunter: Call of the Wild™,NT$ 318.00,SE,2024-08-12 13:11
 58,2195250,EA SPORTS FC™ 24,"NT$ 1,999.00",SE,2024-08-12 13:11
 59,1716740,Starfield,"NT$ 1,333.00",SE,2024-08-12 13:11
-60,34209,High On Life: DLC Bundle,NT$ 572.00,SE,2024-08-12 13:11
 61,1659040,HITMAN World of Assassination,NT$ 420.00,SE,2024-08-12 13:11
 62,1286680,Tiny Tina's Wonderlands,NT$ 433.00,SE,2024-08-12 13:11
 63,1289670,EA Play,NT$ 34.00,SE,2024-08-12 13:11
@@ -68,11 +59,9 @@ Rank,GameID,GameName,Cost,Country,Datetime
 67,311210,Call of Duty®: Black Ops III,NT$ 659.00,SE,2024-08-12 13:11
 68,49520,Borderlands 2,NT$ 149.00,SE,2024-08-12 13:11
 69,2488620,F1® 24,"NT$ 1,439.00",SE,2024-08-12 13:11
-70,1476970,IdleOn - The Idle RPG,Free To Play,SE,2024-08-12 13:11
 71,427410,Abiotic Factor,NT$ 326.00,SE,2024-08-12 13:11
 72,548430,Deep Rock Galactic,NT$ 144.00,SE,2024-08-12 13:11
 73,1203620,Enshrouded,NT$ 499.00,SE,2024-08-12 13:11
-74,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,SE,2024-08-12 13:11
 75,284160,BeamNG.drive,NT$ 408.00,SE,2024-08-12 13:11
 76,1551360,Forza Horizon 5,"NT$ 1,688.00",SE,2024-08-12 13:11
 77,236850,Europa Universalis IV,"NT$ 1,018.00",SE,2024-08-12 13:11
@@ -82,8 +71,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 81,1517290,Battlefield™ 2042,NT$ 239.00,SE,2024-08-12 13:11
 82,1562430,DREDGE,NT$ 486.00,SE,2024-08-12 13:11
 83,294100,RimWorld,NT$ 529.00,SE,2024-08-12 13:11
-84,2336880,Destiny 2: The Final Shape,NT$ 884.00,SE,2024-08-12 13:11
-85,1962663,Call of Duty®: Warzone™,Free To Play,SE,2024-08-12 13:11
 86,413150,Stardew Valley,NT$ 318.00,SE,2024-08-12 13:11
 87,2344520,Diablo® IV,"NT$ 1,575.00",SE,2024-08-12 13:11
 88,2840770,Avatar: Frontiers of Pandora™,NT$ 995.00,SE,2024-08-12 13:11
@@ -92,10 +79,7 @@ Rank,GameID,GameName,Cost,Country,Datetime
 91,2016590,Dark and Darker,Free To Play,SE,2024-08-12 13:11
 92,202970,Call of Duty®: Black Ops II,NT$ 623.00,SE,2024-08-12 13:11
 93,1145350,Hades II,NT$ 488.00,SE,2024-08-12 13:11
-94,39887,Total War: WARHAMMER III – Thrones of Decay,NT$ 687.00,SE,2024-08-12 13:11
 95,1774580,STAR WARS Jedi: Survivor™,NT$ 899.00,SE,2024-08-12 13:11
-96,26688,The Judgment Collection,"NT$ 2,370.00",SE,2024-08-12 13:11
-97,29153,Tank Crew Deluxe Edition,NT$ 561.00,SE,2024-08-12 13:11
 98,1284210,Guild Wars 2,Free To Play,SE,2024-08-12 13:11
 99,648800,Raft,NT$ 468.00,SE,2024-08-12 13:11
 100,1966720,Lethal Company,NT$ 188.00,SE,2024-08-12 13:11

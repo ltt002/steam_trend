@@ -1,6 +1,5 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,FI,2024-08-13 12:20
-2,1675200,Steam Deck,Free To Play,FI,2024-08-13 12:20
 3,393080,Call of Duty®: Modern Warfare® Remastered (2017),NT$ 655.00,FI,2024-08-13 12:20
 4,578080,PUBG: BATTLEGROUNDS,Free To Play,FI,2024-08-13 12:20
 5,238960,Path of Exile(not available in your region),Free To Play,FI,2024-08-13 12:20
@@ -13,31 +12,25 @@ Rank,GameID,GameName,Cost,Country,Datetime
 12,1222670,The Sims™ 4,Free To Play,FI,2024-08-13 12:20
 13,2933620,Call of Duty®: Black Ops 6,"NT$ 2,219.00",FI,2024-08-13 12:20
 14,39210,FINAL FANTASY XIV Online(not available in your region),"NT$ 2,219.00",FI,2024-08-13 12:20
-15,32470,Cyberpunk 2077: Ultimate Edition,"NT$ 1,360.00",FI,2024-08-13 12:20
 16,2161700,Persona 3 Reload,"NT$ 1,134.00",FI,2024-08-13 12:20
 17,1593500,God of War,"NT$ 1,190.00",FI,2024-08-13 12:20
 18,570,Dota 2,Free To Play,FI,2024-08-13 12:20
 19,2183900,"Warhammer 40,000: Space Marine 2","NT$ 1,590.00",FI,2024-08-13 12:20
 20,1086940,Baldur's Gate 3,"NT$ 1,599.00",FI,2024-08-13 12:20
-21,33369,Borderlands Collection: Pandora's Box,"NT$ 1,119.00",FI,2024-08-13 12:20
 22,397540,Borderlands 3,NT$ 178.00,FI,2024-08-13 12:20
 23,271590,Grand Theft Auto V,NT$ 662.00,FI,2024-08-13 12:20
 24,1687950,Persona 5 Royal,NT$ 716.00,FI,2024-08-13 12:20
 25,1245620,ELDEN RING,"NT$ 1,790.00",FI,2024-08-13 12:20
 26,440,Team Fortress 2,Free To Play,FI,2024-08-13 12:20
-27,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",FI,2024-08-13 12:20
 28,553850,HELLDIVERS™ 2,"NT$ 1,190.00",FI,2024-08-13 12:20
 29,1808680,Snufkin: Melody of Moominvalley,NT$ 262.00,FI,2024-08-13 12:20
-30,32110,Cult of the Lamb: The One Who Waits,NT$ 647.00,FI,2024-08-13 12:20
 31,359550,Tom Clancy's Rainbow Six® Siege,NT$ 569.00,FI,2024-08-13 12:20
 32,582660,Black Desert,NT$ 200.00,FI,2024-08-13 12:20
 33,1172470,Apex Legends™,Free To Play,FI,2024-08-13 12:20
 34,1599340,Lost Ark(not available in your region),Free To Play,FI,2024-08-13 12:20
 35,377160,Fallout 4,NT$ 239.00,FI,2024-08-13 12:20
 36,2138330,Cyberpunk 2077: Phantom Liberty,NT$ 679.00,FI,2024-08-13 12:20
-37,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,FI,2024-08-13 12:20
 38,1232580,Knock on the Coffin Lid,NT$ 302.00,FI,2024-08-13 12:20
-39,38150,Tiny Tina's Wonderlands Chaotic Great Edition,NT$ 470.00,FI,2024-08-13 12:20
 40,546560,Half-Life: Alyx,NT$ 305.00,FI,2024-08-13 12:20
 41,2778580,ELDEN RING Shadow of the Erdtree,"NT$ 1,190.00",FI,2024-08-13 12:20
 42,2840770,Avatar: Frontiers of Pandora™,NT$ 995.00,FI,2024-08-13 12:20
@@ -45,18 +38,14 @@ Rank,GameID,GameName,Cost,Country,Datetime
 44,2358720,Black Myth: Wukong,"NT$ 1,280.00",FI,2024-08-13 12:20
 45,2142790,Fields of Mistria,NT$ 248.00,FI,2024-08-13 12:20
 46,2139460,Once Human,Free To Play,FI,2024-08-13 12:20
-47,2890190,Cult of the Lamb: Pilgrim Pack,NT$ 138.00,FI,2024-08-13 12:20
 48,489830,The Elder Scrolls V: Skyrim Special Edition,NT$ 299.00,FI,2024-08-13 12:20
 49,1286680,Tiny Tina's Wonderlands,NT$ 433.00,FI,2024-08-13 12:20
 50,2567870,Chained Together,NT$ 102.00,FI,2024-08-13 12:20
-51,37745,Not A Real Casino Bundle,NT$ 595.00,FI,2024-08-13 12:20
 52,427410,Abiotic Factor,NT$ 326.00,FI,2024-08-13 12:20
 53,1085660,Destiny 2,Free To Play,FI,2024-08-13 12:20
 54,516750,My Summer Car,NT$ 268.00,FI,2024-08-13 12:20
 55,252490,Rust,NT$ 694.00,FI,2024-08-13 12:20
 56,2461850,Senua’s Saga: Hellblade II,"NT$ 1,110.00",FI,2024-08-13 12:20
-57,34209,High On Life: DLC Bundle,NT$ 572.00,FI,2024-08-13 12:20
-58,3736,Turok Bundle,NT$ 666.00,FI,2024-08-13 12:20
 59,1144200,Ready or Not,NT$ 846.00,FI,2024-08-13 12:20
 60,2215430,Ghost of Tsushima DIRECTOR'S CUT,"NT$ 1,490.00",FI,2024-08-13 12:20
 61,1716740,Starfield,"NT$ 1,333.00",FI,2024-08-13 12:20
@@ -66,18 +55,14 @@ Rank,GameID,GameName,Cost,Country,Datetime
 65,381210,Dead by Daylight,NT$ 379.00,FI,2024-08-13 12:20
 66,1849250,EA SPORTS™ WRC,NT$ 419.00,FI,2024-08-13 12:20
 67,739630,Phasmophobia,NT$ 198.00,FI,2024-08-13 12:20
-68,43373,Atlas Fallen: Reign of Sand - Ruin Rising Bundle,NT$ 574.00,FI,2024-08-13 12:20
 69,2396240,SteamWorld Heist II,NT$ 439.00,FI,2024-08-13 12:20
-70,1059550,Valve Index® Controllers(not available in your region),NT$ 439.00,FI,2024-08-13 12:20
 71,782330,DOOM Eternal,NT$ 299.00,FI,2024-08-13 12:20
 72,2638370,Five Nights at Freddy's: Into the Pit,NT$ 328.00,FI,2024-08-13 12:20
 73,1622910,Still Wakes the Deep,NT$ 424.00,FI,2024-08-13 12:20
 74,202970,Call of Duty®: Black Ops II,NT$ 623.00,FI,2024-08-13 12:20
-75,1476970,IdleOn - The Idle RPG,Free To Play,FI,2024-08-13 12:20
 76,244210,Assetto Corsa,NT$ 79.00,FI,2024-08-13 12:20
 77,2016590,Dark and Darker,Free To Play,FI,2024-08-13 12:20
 78,1659040,HITMAN World of Assassination,NT$ 488.00,FI,2024-08-13 12:20
-79,27500,Quake Collection Bundle,NT$ 495.00,FI,2024-08-13 12:20
 80,49520,Borderlands 2,NT$ 149.00,FI,2024-08-13 12:20
 81,1629520,A Little to the Left,NT$ 160.00,FI,2024-08-13 12:20
 82,2400510,Dungeons & Degenerate Gamblers,NT$ 241.00,FI,2024-08-13 12:20
@@ -85,16 +70,12 @@ Rank,GameID,GameName,Cost,Country,Datetime
 84,431240,Golf With Your Friends,NT$ 251.00,FI,2024-08-13 12:20
 85,1172620,Sea of Thieves: 2024 Edition,"NT$ 1,088.00",FI,2024-08-13 12:20
 86,1343400,RuneScape ®,Free To Play,FI,2024-08-13 12:20
-87,199943,Fallout 4: Game of the Year Edition,NT$ 479.00,FI,2024-08-13 12:20
 88,413150,Stardew Valley,NT$ 318.00,FI,2024-08-13 12:20
 89,548430,Deep Rock Galactic,NT$ 144.00,FI,2024-08-13 12:20
 90,494840,UBOAT,NT$ 146.00,FI,2024-08-13 12:20
 91,1551360,Forza Horizon 5,"NT$ 1,688.00",FI,2024-08-13 12:20
-92,32794,Layers of Fear Deluxe Edition,NT$ 526.00,FI,2024-08-13 12:20
 93,2379780,Balatro,NT$ 232.00,FI,2024-08-13 12:20
-94,1643320,S.T.A.L.K.E.R. 2: Heart of Chornobyl,"NT$ 1,699.00",FI,2024-08-13 12:20
 95,1974050,Torchlight: Infinite,Free To Play,FI,2024-08-13 12:20
-96,15234,The Iga's Back Bundle,NT$ 541.00,FI,2024-08-13 12:20
 97,1284210,Guild Wars 2,Free To Play,FI,2024-08-13 12:20
 98,227300,Euro Truck Simulator 2,NT$ 428.00,FI,2024-08-13 12:20
 99,1966720,Lethal Company,NT$ 188.00,FI,2024-08-13 12:20

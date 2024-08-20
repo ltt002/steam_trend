@@ -1,14 +1,11 @@
 Rank,GameID,GameName,Cost,Country,Datetime
 1,730,Counter-Strike 2,Free To Play,DK,2024-08-06 12:03
 2,238960,Path of Exile(not available in your region),Free To Play,DK,2024-08-06 12:03
-3,1675200,Steam Deck,Free To Play,DK,2024-08-06 12:03
-4,2669320,EA SPORTS FC™ 25,"NT$ 2,099.00",DK,2024-08-06 12:03
 5,2074920,The First Descendant,Free To Play,DK,2024-08-06 12:03
 6,2567870,Chained Together,NT$ 102.00,DK,2024-08-06 12:03
 7,1245620,ELDEN RING,"NT$ 1,790.00",DK,2024-08-06 12:03
 8,1086940,Baldur's Gate 3,"NT$ 1,599.00",DK,2024-08-06 12:03
 9,983380,Car Manufacture,NT$ 295.00,DK,2024-08-06 12:03
-10,5700,Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle,NT$ 662.00,DK,2024-08-06 12:03
 11,2139460,Once Human,Free To Play,DK,2024-08-06 12:03
 12,570,Dota 2,Free To Play,DK,2024-08-06 12:03
 13,271590,Grand Theft Auto V,NT$ 662.00,DK,2024-08-06 12:03
@@ -18,7 +15,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 17,578080,PUBG: BATTLEGROUNDS,Free To Play,DK,2024-08-06 12:03
 18,440,Team Fortress 2,Free To Play,DK,2024-08-06 12:03
 19,1203620,Enshrouded,NT$ 499.00,DK,2024-08-06 12:03
-20,35623,Legion TD 2 - Complete Edition,NT$ 619.00,DK,2024-08-06 12:03
 21,1599340,Lost Ark(not available in your region),NT$ 619.00,DK,2024-08-06 12:03
 22,553850,HELLDIVERS™ 2,"NT$ 1,190.00",DK,2024-08-06 12:03
 23,230410,Warframe,Free To Play,DK,2024-08-06 12:03
@@ -38,10 +34,8 @@ Rank,GameID,GameName,Cost,Country,Datetime
 37,1551360,Forza Horizon 5,"NT$ 1,688.00",DK,2024-08-06 12:03
 38,1144200,Ready or Not,NT$ 846.00,DK,2024-08-06 12:03
 39,1282100,REMNANT II®,NT$ 550.00,DK,2024-08-06 12:03
-40,39394,Command & Conquer™ The Ultimate Collection,NT$ 288.00,DK,2024-08-06 12:03
 41,306130,The Elder Scrolls® Online,NT$ 599.00,DK,2024-08-06 12:03
 42,1151340,Fallout 76,"NT$ 1,199.00",DK,2024-08-06 12:03
-43,43418,Manufacture and Repair,NT$ 632.00,DK,2024-08-06 12:03
 44,1214470,Hotel Renovator,NT$ 690.00,DK,2024-08-06 12:03
 45,546560,Half-Life: Alyx,NT$ 305.00,DK,2024-08-06 12:03
 46,1422440,Cataclismo,NT$ 699.00,DK,2024-08-06 12:03
@@ -54,22 +48,18 @@ Rank,GameID,GameName,Cost,Country,Datetime
 53,1091500,Cyberpunk 2077,"NT$ 1,599.00",DK,2024-08-06 12:03
 54,2300320,Farming Simulator 25,"NT$ 1,199.00",DK,2024-08-06 12:03
 55,1174180,Red Dead Redemption 2,"NT$ 1,790.00",DK,2024-08-06 12:03
-56,41694,Zoey's fan bundle(hidden by your preferences),NT$ 414.00,DK,2024-08-06 12:03
 57,494840,UBOAT,NT$ 146.00,DK,2024-08-06 12:03
 58,2141910,Magic: The Gathering Arena(not available in your region),NT$ 146.00,DK,2024-08-06 12:03
 59,1708850,Drug Dealer Simulator 2,NT$ 408.00,DK,2024-08-06 12:03
 60,1363080,Manor Lords,NT$ 749.00,DK,2024-08-06 12:03
 61,739630,Phasmophobia,NT$ 248.00,DK,2024-08-06 12:03
-62,1679,Oblivion Game of the Year Deluxe,NT$ 588.00,DK,2024-08-06 12:03
 63,284160,BeamNG.drive,NT$ 408.00,DK,2024-08-06 12:03
 64,1142710,Total War: WARHAMMER III,"NT$ 1,790.00",DK,2024-08-06 12:03
-65,1059550,Valve Index® Controllers(not available in your region),"NT$ 1,790.00",DK,2024-08-06 12:03
 66,2591280,F1® Manager 2024,NT$ 820.00,DK,2024-08-06 12:03
 67,2670630,Supermarket Simulator,NT$ 238.00,DK,2024-08-06 12:03
 68,236850,Europa Universalis IV,"NT$ 1,018.00",DK,2024-08-06 12:03
 69,2322010,God of War Ragnarök,"NT$ 1,490.00",DK,2024-08-06 12:03
 70,1517290,Battlefield™ 2042,NT$ 239.00,DK,2024-08-06 12:03
-71,35840,Balkans Bundle,"NT$ 1,154.00",DK,2024-08-06 12:03
 72,266410,iRacing,NT$ 278.00,DK,2024-08-06 12:03
 73,960090,Bloons TD 6,NT$ 248.00,DK,2024-08-06 12:03
 74,1149460,ICARUS,NT$ 283.00,DK,2024-08-06 12:03
@@ -89,7 +79,6 @@ Rank,GameID,GameName,Cost,Country,Datetime
 88,2344520,Diablo® IV,"NT$ 1,575.00",DK,2024-08-06 12:03
 89,1623730,Palworld,NT$ 488.00,DK,2024-08-06 12:03
 90,594650,Hunt: Showdown,NT$ 799.00,DK,2024-08-06 12:03
-91,21151,ARK: Survival Evolved Season Pass,NT$ 306.00,DK,2024-08-06 12:03
 92,1222700,A Way Out,NT$ 159.00,DK,2024-08-06 12:03
 93,2406770,Bodycam,NT$ 566.00,DK,2024-08-06 12:03
 94,1637320,Dome Keeper,NT$ 298.00,DK,2024-08-06 12:03
