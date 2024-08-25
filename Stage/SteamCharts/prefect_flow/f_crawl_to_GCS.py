@@ -89,7 +89,7 @@ if __name__ == "__main__":
     from prefect_github import GitHubRepository
 
     crawl.from_source(
-        source=GitHubRepository.load("steam_trend"),
+        source=GitHubRepository.load("steam-trend"),
         entrypoint="f_crawl_to_GCS.py:crawl",
     ).deploy(
         name="crawl-steamChartsrank-to-gcs",
