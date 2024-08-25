@@ -53,7 +53,7 @@ if __name__ == "__main__":
     from prefect_github import GitHubRepository
 
     normalization.from_source(
-        source=GitHubRepository.load("steam_trend"),
+        source=GitHubRepository.load("steam-trend"),
         entrypoint="f_normalization_to_GCS.py:normalization",
     ).deploy(
         name="normalization-steamChartsrank-to-gcs",
