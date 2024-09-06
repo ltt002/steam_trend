@@ -9,7 +9,7 @@ import subprocess
 # 當天日期
 now = datetime.now()
 formatted_date = now.strftime("%Y-%m-%d")
-#formatted_date = "2024-08-15"    #改之前檔案用
+#formatted_date = "2024-08-21"    #改之前檔案用
 file_date = str(formatted_date)
 
 # 找到資料夾路徑
@@ -48,16 +48,21 @@ def format_MostPlayedGames():
     df[4] = df[4].str.replace(',', '').astype(int)
     df[5] = df[5].str.replace(',', '').astype(int)
     df[6] = formatted_date
+
+    df = df[~df[2].isin(['1422450', '218','2738000','2757350','2877160','3092450','3107080','3132990'])]
     
     # 讀取 File_ColumnHeading 並加到 df 的第一列
     column_heading_file = os.path.join(current_dir_path, dir_name, f'{File_ColumnHeading}.csv')
     column_heading = pd.read_csv(column_heading_file, header=None, encoding="utf-8").iloc[0]
 
     # 將 column_heading 設定為新的欄名稱
-    df.columns = column_heading
+    df.columns = column_heading    
+    df = df.head(1000)
 
-    # 依Table欄位儲存
-    df = df[['GameID', 'MostPlayedRank', 'PeakPlayers', 'AllTimePeak', 'Date']].head(1000)
+    # 按 PeakPlayers 由大到小排序，並加排名
+    df = df.sort_values(by='PeakPlayers', ascending=False)
+    df['MostPlayedRank'] = range(1, len(df) + 1)
+    df = df[['GameID', 'MostPlayedRank', 'PeakPlayers', 'AllTimePeak', 'Date']]
 
     # 另存新檔
     output_file_path = os.path.join(current_dir_path, dir_name, f'{dir_name}_{file_date}.csv')

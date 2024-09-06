@@ -1,0 +1,3 @@
+﻿All (98,156)
+Positive (69,044)
+Negative (29,112)
