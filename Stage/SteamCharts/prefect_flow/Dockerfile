@@ -1,0 +1,28 @@
+FROM --platform=linux/amd64 python:3.12-slim-bullseye
+
+ENV TZ=Asia/Taipei
+
+COPY requirements.txt requirements.txt
+COPY ./src/ app/src/
+COPY json_key.json /app/json_key.json
+
+RUN apt-get update && \
+    apt-get install git zsh vim curl wget zip procps gcc python3-dev -y && \
+    ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone && \
+    echo "Y" | sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+RUN pip install --upgrade pip && \
+    pip install -r requirements.txt && \
+    pip install google-cloud-storage && \
+    pip install BeautifulSoup4 && \
+    pip install pandas && \
+    pip install requests
+
+
+# 設置環境變數以告知應用程式金鑰位置
+ENV GOOGLE_APPLICATION_CREDENTIALS="/app/json_key.json"
+
+# Prefect config
+RUN prefect config set PREFECT_LOGGING_LOG_PRINTS=True
+
+ENV PYTHONPATH="$PYTHONPATH:/app/src"

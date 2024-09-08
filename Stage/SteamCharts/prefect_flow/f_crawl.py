@@ -5,8 +5,6 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import pandas as pd
-from google.cloud import storage
-import io
 from prefect import flow, task
 
 
@@ -69,20 +67,8 @@ def crawl():
     df['Datetime'] = [date for i in range(len(df))]
     df.insert(loc=1, column='App_Id', value=game_ids)
 
-    # GCS bucket、路徑設置
-    bucket_name = 'tir102-project-database'  # 替换为你的 GCS bucket 名称
-    destination_blob_name = f'stage/steamchart/SteamCharts_Rank/SteamCharts_Rank({_today}).csv'
-
-    # 將檔案存至內存
-    csv_buffer = io.StringIO()
-    df.to_csv(csv_buffer, encoding='utf-8', index=False)
-
-    # 創建客戶端 並上傳
-    service_account_path = '/app/json_key.json'
-    storage_client = storage.Client.from_service_account_json(service_account_path)
-    bucket = storage_client.bucket(bucket_name)
-    blob = bucket.blob(destination_blob_name)
-    blob.upload_from_string(csv_buffer.getvalue(), content_type='text/csv')
+    # Step5: 將檔案依每日日期存放至指定資料夾
+    df.to_csv(f'test({_today}).csv', encoding='utf-8', index=False)
 
 
 if __name__ == "__main__":
@@ -90,12 +76,29 @@ if __name__ == "__main__":
 
     crawl.from_source(
         source=GitHubRepository.load("steam_trend"),
-        entrypoint="f_crawl_to_GCS.py:crawl",
+        entrypoint="f_crawl.py:crawl",
     ).deploy(
-        name="crawl-steamChartsrank-to-gcs",
-        tags=["steamcharts_rank", "gcs"],
-        work_pool_name="docker",
+        name="test-crawl",
+        tags=["test", "project_1"],
+        work_pool_name="test-subproc",
         job_variables=dict(pull_policy="Never"),
         # parameters=dict(name="Marvin"),
         cron="5 12 * * *"
     )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
